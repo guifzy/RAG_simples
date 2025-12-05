@@ -1,0 +1,16 @@
+# Dependências necessárias para executar o notebook proj4.ipynb
+# Para instalar: pip install -r requirements.txt
+
+pypdf
+langchain
+langchain-text-splitters
+sentence-transformers
+transformers
+torch
+accelerate
+safetensors
+faiss-cpu
+numpy
+scikit-learn
+pandas
+spacy

@@ -1,0 +1,2420 @@
+[
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "apologia_1_0",
+    "texto": "Apologia de Sócrates \npor Platão \n \nTradução de Maria Lacerda de Souza. \nPrimeira Parte - Sócrates apresenta sua defesa \nI \nO que vós, cidadão atenienses, haveis sentido, com o manejo dos meus \nacusadores, não sei; certo é que eu, devido a eles, quase me esquecia de \nmim mesmo, tão persuasivamente falavam. Contudo, não disseram, eu \no afirmo, nada de verdadeiro. Mas, entre as muitas mentiras que \ndivulgaram, uma, acima de todas, eu admiro: aquela pela qual disseram \nque deveis ter cuidado para não serdes enganados por mim, como \nhomem hábil no falar. \nMas, então, não se envergonham disto, de que logo seriam desmentidos \npor mim, com fatos, quando eu me apresentasse diante de vós, de \nnenhum modo hábil orador? Essa me parece a sua maior imprudência,",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Platão \n \nTradução de",
+        "label": "PER"
+      },
+      {
+        "text": "Maria Lacerda de Souza",
+        "label": "PER"
+      },
+      {
+        "text": "Primeira Parte - Sócrates",
+        "label": "MISC"
+      },
+      {
+        "text": "I",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "apologia_1_1",
+    "texto": "nenhum modo hábil orador? Essa me parece a sua maior imprudência, \nse, todavia, não denominam \"hábil no falar\" aquele que diz a verdade. \nPorque, se dizem exatamente isso, poderei confessar que sou orador, \nnão porém à sua maneira. \nAssim, pois, como acabei de dizer, pouco ou absolutamente nada \ndisseram de verdade; mas, ao contrário, eu vo -la direi em toda a sua \nplenitude. Contudo, por Zeus, não ouvireis, por certo, cidadão \natenienses, discursos enfeitados de locuções e de palavras, ou \nadornados como os deles, mas coisas ditas simplesmente com as \npalavras que me vieram à boca; pois estou cert o de que é justo o que \neu digo, e nenhum de vós espera outra coisa. Em verdade, nem \nconviria que eu, nesta idade, me apresentasse diante de vós, ó cidadãos,",
+    "ner": [
+      {
+        "text": "vo",
+        "label": "PER"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "apologia_1_2",
+    "texto": "conviria que eu, nesta idade, me apresentasse diante de vós, ó cidadãos, \ncomo um jovenzinho que estuda os seus discursos. E todavia, cidadãos \natenienses, isso vos peço, vos suplico: se sentirdes que me defendo \ncom os mesmos discursos com os quais costumo falas nas feiras, perto \ndos bancos, onde muitos de vós tendes ouvido, e em outros lugares, \nnão vos espanteis por isso, nem provoqueis clamor. Porquanto, há o \nseguinte: é a p rimeira vez que me apresento diante de um tribunal, na \nidade de mais de setenta anos: por isso, sou quase estranho ao modo de \nfalar aqui. Se eu fosse realmente um forasteiro, seu dúvida, \nperdoaríeis, se eu falasse na língua e maneira pelas quais tivesse sido",
+    "ner": [
+      {
+        "text": "p",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "apologia_2_0",
+    "texto": "educado; assim também agora vos peço uma coisa que me parece justa: \npermiti-me, em primeiro lugar, o meu modo de falar - e poderá ser pior \nou mesmo melhor - depois, considerai o seguinte, e só prestai atenção \na isso: se o que digo é justo ou não: essa, de fato, é a virtude do juiz, \ndo orador - dizer a verdade. \nII \nÉ justo, pois, cidadão atenienses, que em primeiro lugar, eu me \ndefenda das primeiras e falsas acusações que me foram apresentadas, e \ndos primeiros acusadores; depois, me defenderei das últimas e dos \núltimos. Porque muitos dos meus acusadores tem vindo até vós já \nbastante tempo, talvez anos, e sem jamais dizerem a verdade; e esses eu \ntemo mais do que Anito e seus companheiros, embora também sejam \ntemíveis os últimos. Mais temíveis porém são os primeiros, ó",
+    "ner": [
+      {
+        "text": "Anito",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "apologia_2_1",
+    "texto": "temíveis os últimos. Mais temíveis porém são os primeiros, ó \ncidadãos, os quais tomando a maior parte de vós, desde crianças, vos \npersuadiam e me acusavam falsamente, dizendo -vos que há um tal \nSócrates, homem douto, especulador das cosias celestes e investigador \ndas subterrâneas e que torna mais forte a razão mais fraca. Esses, \ncidadãos atenienses, que divulgaram tais coisas, são os acusadores que \neu temo; pois aqueles que os escutam julgam que os investigadores de \ntais coisas não acreditam nem mesmo nos deuses. Pois esses \nacusadores são muito e me acusam já há bastante tempo; e, além disso, \nvos falavam naquela idade em que mais facilmente podíeis dar crédito, \nquando éreis crianças e alguns de vós muito jovens, acusando-me com",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "apologia_2_2",
+    "texto": "quando éreis crianças e alguns de vós muito jovens, acusando-me com \npertinaz tenacidade, sem que ninguém me defendesse. E o que é mais \nabsurdo é que não se pode saber nem dizer os seus nomes, exceto, \ntalvez, algum comediógrafo. \nPor isso, quantos, por inveja ou calúnia, vos persuadiam, e os que, \nconvencidos, procuravam persuadir os outros, são todos, por assim \ndizer, inabordáveis; porque não é possív el fazê-los comparecer aqui, \nnem refutar nenhum deles, mas devo eu mesmo me defender, quase \ncombatendo com sombras e destruir, sem que ninguém responda. \nAdmiti, também vós, como eu digo, que os meus acusadores são de \nduas espécies, uns, que me acusaram recentemente, outros, há muito \ndos quais estou falando e convinde que devo me defender",
+    "ner": [
+      {
+        "text": "Admiti",
+        "label": "MISC"
+      },
+      {
+        "text": "convinde",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "apologia_2_3",
+    "texto": "dos quais estou falando e convinde que devo me defender \nprimeiramente destes, porque também vós os ouviste acusar -me em \nprimeiro lugar e durante muito mais tempo que os últimos.",
+    "ner": [
+      {
+        "text": "convinde",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "apologia_3_0",
+    "texto": "Ora bem, cidadãos atenienses, devo defender-me e empreender remover \nde vossa mente, em tão breve hora, a má opinião acolhida por vós \ndurante muito tempo. \nCerto eu desejaria consegui-lo, e seria o melhor, para vós e para mim, \nse, defendendo-me, obtivesse algum proveito; mas vejo a coisa difícil, \ne bem percebo por quê. De resto, seja como deus quiser: agora é \npreciso obedecer à lei e em defender. \nIII \nProssigamos, pois, e vejamos, de início, qual é a acusação, de onde \nnasce a calúnia contra mim, baseado no qual Meleto me moveu este \nprocesso. \nOra bem, que diziam os caluniadores ao caluniar-me? É necessário ler \na ata da acusação jurada por esses tais acusadores: - Sócrates comete \ncrime e perde a sua obra, investigando as coisas terrenas e as",
+    "ner": [
+      {
+        "text": "Certo",
+        "label": "PER"
+      },
+      {
+        "text": "III \nProssigamos",
+        "label": "MISC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "apologia_3_1",
+    "texto": "crime e perde a sua obra, investigando as coisas terrenas e as \ncelestes, e tornando mais forte a razão mais débil, e ensinando isso \naos outros. - Tal é , mais ou menos, a acusação: e isso já vistes, vós \nmesmos, na comédia de Aristófanes, onde aparece, aqui e ali, um \nSócrates que diz caminhar pelos ares e exibe muitas outras tolices, das \nquais não entendo nem muito, nem pouco. \nE não digo isso por desprezar tal ciência, se é que há sapiência nela, \nmas o fato é, cidadão atenienses, que, de maneira alguma, me ocupo de \nsemelhantes coisas. E apresento testemunhas: vós mesmos, e peço vos \ninformei reciprocamente, mutuamente vos interrogueis, quantos de vós \nme ouviram discursar algum dia; e muitos dentre vós são desses.",
+    "ner": [
+      {
+        "text": "Aristófanes",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "apologia_3_2",
+    "texto": "me ouviram discursar algum dia; e muitos dentre vós são desses. \nPerguntai-vos uns aos outros se qualquer de vós jamais me ouviu orar, \nmuito ou pouco, em torno de tais assuntos, e então reconhecereis que \ntais são. do mesmo modo, as outras mentiras que dizem de mim. \nIV \nNa realidade, nada disso é verdadeiro, e , se tendes ouvido de alguém \nque instruo e ganho dinheiro com isso, não é verdade. Embora, em \nrealidade, isso me pareça bela coisa: que alguém seja capaz de instruir \nos homens, como Górgias Leontino, Pródico de Coo, e Hípias de \nÉlide. Porquanto, cada um desses, ó cidadãos, passando de cidade em \ncidade, é capaz de persuadir os jovens, os quais poderiam conversar \ngratuitamente com todos os cidadãos que quisessem; é capaz de",
+    "ner": [
+      {
+        "text": "Górgias Leontino",
+        "label": "PER"
+      },
+      {
+        "text": "Pródico de Coo",
+        "label": "PER"
+      },
+      {
+        "text": "Hípias",
+        "label": "PER"
+      },
+      {
+        "text": "Élide",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "apologia_4_0",
+    "texto": "persuadir a e star com eles, deixando as outras conversações, \ncompensado-os com dinheiro e proporcionando-lhes prazer. \nMas aqui há outro erudito de Paros, o qual eu soube que veio para \njunto de nós, porque encontrei por acaso um que despendeu com os \nsofistas mais dinheiro que todos os outros juntos, Cálias de Hipônico. \ntem dois filhos e eu o interroguei: - Cálias, se os teus filhinhos fossem \npoldrinhos ou bezerros, deveríamos escolher e pagar para eles um \nguardião, o qual os deveria aperfeiçoar nas suas qualidades inere ntes: \nseria uma pessoa que entendesse de cavalos e de agricultura. Mas, \ncomo são homens, qual é o mestre que deves tomar para eles? Qual é o \nque sabe ensinar tais virtudes, a humana e a civil? Creio bem que tens",
+    "ner": [
+      {
+        "text": "Paros",
+        "label": "LOC"
+      },
+      {
+        "text": "Cálias de Hipônico",
+        "label": "PER"
+      },
+      {
+        "text": "Cálias",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "apologia_4_1",
+    "texto": "que sabe ensinar tais virtudes, a humana e a civil? Creio bem que tens \npensador nisso uma vez que tem dois filhos. Haverá alguém ou não ? - \nCertamente! - responde. E eu pergunto: - Quem é, de onde e por \nquanto ensina? Eveno, respondeu, de Paros, por cinco minas. - E eu \nacreditaria Eveno muito feliz, se verdadeiramente possui essa arte e a \nensina com tal garbo. Mas o qu e é certo é que também eu me sentiria \naltivo e orgulhoso, se soubesse tais coisas; entretanto, o fato é, \ncidadãos atenienses, que não sei. \nV \nAlgum de vós, aqui, poderia talvez se opor a mim: - Mas Sócrates, que \né que fazes? De onde nasceram tais calunias? Se não tivesses te \nocupado em coisa alguma diversa das coisas que fazem os outros, na \nverdade não terias ganho tal fama e não teriam nascido acusações.",
+    "ner": [
+      {
+        "text": "Eveno",
+        "label": "PER"
+      },
+      {
+        "text": "Paros",
+        "label": "LOC"
+      },
+      {
+        "text": "Eveno",
+        "label": "PER"
+      },
+      {
+        "text": "V \n",
+        "label": "MISC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "apologia_4_2",
+    "texto": "verdade não terias ganho tal fama e não teriam nascido acusações. \nDizes, pois, o que é isso, a fim de que não julguem a esmo. \nQuem diz assim, parece -me que fala justam ente, e eu procurarei \ndemonstrar-vos que jamais foi essa a causa produtora de tal fama e de \ntal calúnia. Ouvi -me. Talvez possa parecer a algum de vós que eu \nesteja gracejando; entretanto, sabei-o bem, eu vos direi toda a verdade. \nPorque eu, cidadãos atenienses, se conquistei esse nome, foi por \nalguma sabedoria. Que sabedoria é essa? Aquela que é, talvez \npropriamente, a sabedoria humana. É, em realidade, arriscado ser sábio \nnela: mas aqueles de quem falávamos ainda há pouco seriam sábios de \numa sabedoria mai s que humana, ou não sei que dizer, porque certo",
+    "ner": [
+      {
+        "text": "Dizes",
+        "label": "MISC"
+      },
+      {
+        "text": "justam",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "apologia_4_3",
+    "texto": "uma sabedoria mai s que humana, ou não sei que dizer, porque certo \nnão a conheço. Não façais rumor, cidadãos atenienses, não fiqueis \ncontra mim, ainda que vos pareça que eu diga qualquer coisa absurda: \npois que não é meu o discurso que estou por dizer, mas refiro -me a",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 5,
+    "chunk_id": "apologia_5_0",
+    "texto": "outro que é digno de vossa confiança. Apresento -vos, de fato, o deus \nde Delfos como testemunha de minha sabedoria, se eu a tivesse, e \nqualquer que fosse. Conheceis bem Xenofonte. Era meu amigo desde \njovem, também amigo do vosso partido democrático, e participou de \nvosso exílio e convosco repatriou -se. E sabeis também como era \nXenofonte, veemente em tudo aquilo que empreendesse. Uma vez, de \nfato, indo a Delfos, ousou interrogar o oráculo a respeito disso e - não \nfaçais rumor, por isso que digo - perguntou-lhe, pois, se havia alguém \nmais sábio que eu. Ora, a pitonisa respondeu que não havia ninguém \nmais sábio. E a testemunha disso é seu irmão, que aqui está. \nVI \nConsiderai bem a razão por que digo isso: estou para demonstra-vos de",
+    "ner": [
+      {
+        "text": "Delfos",
+        "label": "LOC"
+      },
+      {
+        "text": "Xenofonte",
+        "label": "PER"
+      },
+      {
+        "text": "Xenofonte",
+        "label": "PER"
+      },
+      {
+        "text": "Delfos",
+        "label": "LOC"
+      },
+      {
+        "text": "VI \nConsiderai",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 5,
+    "chunk_id": "apologia_5_1",
+    "texto": "VI \nConsiderai bem a razão por que digo isso: estou para demonstra-vos de \nonde nasceu a calúnia. Em verdade , ouvindo isso, pensei: que queria \ndizer o deus e qual é o sentido de suas palavras obscuras? Sei bem que \nnão sou sábio, nem muito nem pouco: o que quer dizer, pois, \nafirmando que sou o mais sábio? Certo não mente, não é possível. E \nfiquei por muito tempo em dúvida sobre o que pudesse dizer; depois \nde grande fadiga resolvi buscar a significação do seguinte modo: Fui a \num daqueles detentores da sabedoria, com a intenção de refutar, por \nmeio dele, sem dúvida, o oráculo, e, com tais provas, opor-lhe a minha \nresposta: Este é mais sábio que eu, enquanto tu dizias que eu sou o \nmais sábio. Examinando esse tal: - não importa o nome, mas era,",
+    "ner": [
+      {
+        "text": "VI \n",
+        "label": "MISC"
+      },
+      {
+        "text": "Certo",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 5,
+    "chunk_id": "apologia_5_2",
+    "texto": "mais sábio. Examinando esse tal: - não importa o nome, mas era, \ncidadãos atenienses, um dos políticos, este de quem eu experimentava \nessa impressão. - e falando com ele, afigurou -se-me que esse homem \nparecia sábio a muitos outros e principalmente a si mesmo, mas não \nera sábio. Procurei demonstrar-lhe que ele parecia sábio sem o ser. Daí \nme veio o ódio dele e de muitos dos presentes. Então, pus -me a \nconsiderar, de mim para mim, que eu sou mais sábio do que esse \nhomem, pois que, ao contrário, nenhum de nós sabe nada de belo e \nbom, mas aquele homem acredita saber alguma coisa, sem sabê -la, \nenquanto eu, como não si nada, também estou certo de não saber. \nParece, pois, que eu seja mais sábio do que ele, nisso - ainda que seja",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 5,
+    "chunk_id": "apologia_5_3",
+    "texto": "Parece, pois, que eu seja mais sábio do que ele, nisso - ainda que seja \npouca coisa: não acredito saber aquilo que não sei. Depois desse, fui a \noutro daqueles que possuem ainda mais sabedoria que esse, e me \npareceu que todos são a mesma coisa. Daí veio o ódio também deste e \nde muitos outros.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 6,
+    "chunk_id": "apologia_6_0",
+    "texto": "VI \nDepois prossegui se mais me deter. embora vendo, amargurado e \ntemeroso, que estava incorrendo em ódio; mas também me parecia \ndever fazer mais caso da resposta do deus. Para procurar, pois o que \nqueria dizer o oráculo, eu devia ir a todos aqueles que diziam saber \nqualquer coisa. E então, cidadãos atenienses, já que é preciso dizer a \nverdade, me aconteceu o seguinte: procurando segundo o dedo do \ndeus, pareceu -me que os mais estimados eram quase privados do \nmelhor, e que, ao contrário, os outros, reputados ineptos, eram homens \nmais capazes, quando à sabedoria. \nOra, é preciso que eu vos descreva os meus passos, como de quem se \ncansava para que o oráculo se tornasse acessível a mim. Depois dos \npolíticos, fui aos poetas trágicos, e, dos ditirâmbicos fui aos outros,",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 6,
+    "chunk_id": "apologia_6_1",
+    "texto": "políticos, fui aos poetas trágicos, e, dos ditirâmbicos fui aos outros, \nconvencido de que, entre esses, eu seria de fato apanhado como mais \nignorante do que eles. Tomando, pois, os seus poemas, dentre os que \nme pareciam os mais bem feitos, eu lhes perguntava o que queriam \ndizer, para aprender também alguma coisa com eles. \nAgora, ó cidadãos, eu me envergonho de vos dizer a verdade; mas \ntambém devo manifestá-la. Pois que estou para afirmar que todos os \npresentes teriam discorrido sobre tais versos quase melhor do que \naqueles que os haviam feito. \nEm poucas palavras direi ainda, em relação aos trágicos, que não \nfaziam por sabedoria aquilo que faziam, mas por certa natural \ninclinação, e intuição, assim como os adivinhos e os vates; e em",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 6,
+    "chunk_id": "apologia_6_2",
+    "texto": "inclinação, e intuição, assim como os adivinhos e os vates; e em \nverdade, embora digam muitas e belas coisas, não sabem nada daquilo \nque dizem. O mesmo me parec e acontecer com os outros poetas; e \ntambém me recordo de que eles, por causa das suas poesias, \nacreditavam-se homens sapientíssimos ainda em outras coisas, nas \nquais não eram. Por essa razão, pois, andei pensando que, nisso eu os \nsuperava, pela mesma razão que superava os políticos. \nVIII \nPor fim, também fui aos artífices, porque estava persuadido de que por \nassim dizer nada sabiam, e, ao contrário, tenho que dizer que os achei \ninstruídos em muitas e belas coisas. Em verdade, nisso me enganei: \neles, de fato. sabiam aquilo que eu não sabia e eram muito mais sábios",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 6,
+    "chunk_id": "apologia_6_3",
+    "texto": "eles, de fato. sabiam aquilo que eu não sabia e eram muito mais sábios \ndo que eu. Mas, cidadãos atenienses, parece -me que também os",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 7,
+    "chunk_id": "apologia_7_0",
+    "texto": "artífices tinham o mesmo defeito dos poetas: pelo fato de exercitar \nbem a própria arte, cada um pretendia ser sapientíssimo também nas \noutras coisas de maior importância, e esse erro obscurecia o seu saber. \nAssim, eu ia interrogando a mim mesmo, a respeito do que disse o \noráculo, se devia mesmo permanecer como sou, nem sábio da sua \nsabedoria, nem ignorante da sua ignorância, ou ter ambas as coisas, \ncomo eles o tem. \nEm verdade, respondo a mim e ao oráculo que me convém ficar como \nsou. \nIX \nOra, dessa investigação, cidadãos atenienses, me vieram muitas \ninimizades e tão odiosas e graves que delas se derivaram outras tantas \ncalúnias e me foi atribuída a qualidade de sábio; pois que, a cada \ninstante, os presentes acreditam que eu seja sábio naquilo que refuto os",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 7,
+    "chunk_id": "apologia_7_1",
+    "texto": "instante, os presentes acreditam que eu seja sábio naquilo que refuto os \noutros. Do contrário, ó cidadãos, o deus é que poderia ser sábio de \nverdade, ao dizer, no oráculo, que a sabedoria humana é de pouco o u \nnenhum preço; e parece que não tenha querido dizer isso de Sócrates, \nmas que se tenha servido do meu nome, tomando -me por exemplo, \ncomo se dissesse: Aqueles dentre vós, ó homens, são sapientíssimos os \nque, como Sócrates, tenham reconhecido que em realidade não tem \nnenhum mérito quanto à sabedoria. \nPor isso, ainda agora procuro e investigo segundo a vontade do deus, \nse algum dos cidadãos e dos forasteiros me parece sábio; e quando não, \nindo em auxílio do deus, demonstro -lhe que não é sábio. E, ocupado \nem tal investigação, não tenho tido tempo de fazer nada de nada de",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 7,
+    "chunk_id": "apologia_7_2",
+    "texto": "em tal investigação, não tenho tido tempo de fazer nada de nada de \napreciável, nem nos negócios públicos, nem nos privados, mas \nencontro-me em extrema pobreza, por causa do serviço do deus. \nAlém disso, os jovens ociosos, os filhos dos ricos, seguindo -me \nespontaneamente, gostam de ouvir-me examinar os homens, e muitas \nvezes me imitam, por sua própria conta, e empreendem examinar os \noutros; e então, encontram grande quantidade daqueles que acreditam \nsaber alguma coisa, mas, pouco ou nada sabem. Daí, aqueles que são \nexaminados por eles encolerizam -se comigo assim como com eles, e \ndizem que há um tal Sócrates, perfidíssimo, que corrompe os jovens. E \nquando alguém os pergunta o que é que ele faz e ensina, não tem nada",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 7,
+    "chunk_id": "apologia_7_3",
+    "texto": "quando alguém os pergunta o que é que ele faz e ensina, não tem nada \no que dizer, pois ignoram. Para não parecerem embaraçados, dizem",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 8,
+    "chunk_id": "apologia_8_0",
+    "texto": "aquela acusação comum, a qual é movida a todos os filósofos: que \nensina as coisas celestes e terrenas, a não acreditar nos deuses, e a \ntornar mais forte a razão mais débil. Sim, porque não querem, ao meu \nver, dizer a verdade, isto é, que descobriram a presunção de seu saber, \nquando não sabem nada. Assim, penso, sendo eles ambiciosos e \nresolutos e em grande número, e falando de mim concordemente e \npersuasivamente, vos encheram os ouvidos caluniando-me de há muito \ntempo e com persistência. Entre esses, arremessaram -se contra mim \nMeleto, Anito e Licon: Meleto pelos poetas, Anito pelos artífices, \nLicon pelo oradores. De modo que, como eu dizia no princípio, ficaria \nmaravilhado se conseguisse, em tão breve tempo, tirar do vosso ânimo \na força dessa calúnia, tornada tão grande.",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Licon",
+        "label": "MISC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "PER"
+      },
+      {
+        "text": "Licon",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 8,
+    "chunk_id": "apologia_8_1",
+    "texto": "a força dessa calúnia, tornada tão grande. \nEis a verdade, cidadãos atenienses, e eu falo sem esconder nem \ndissimular nada de grande ou de pequeno. \nSaibam, quantos o queiram, que por isso sou odiado; er que digo a \nverdade, e que tal é a calúnia contra mim e tais são as causas. E tanto \nagora como mais tarde ou em qualquer tempo, podereis considerar \nessas coisas: são como digo. \nX \nÉ suficiente, pois. esta minha defesa diante de vós, contra a acusação \nmovida a mim pelos primeiros acusadores. Agora procurarei defender-\nme de Meleto, homem de bem e amante da pátria, como dizem, e um \ndos últimos acusadores. \nVoltemos, portanto, ao ato de acusação, jurado por ele, como por \noutros acusadores. É mais ou menos assim: \n-Sócrates - diz a acusação - comete crime corrompendo os jovens e",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 8,
+    "chunk_id": "apologia_8_2",
+    "texto": "-Sócrates - diz a acusação - comete crime corrompendo os jovens e \nnão considerando como deuses os deuses que a cidade considera, \nporém outras divindades novas. - Esta é a acusação. Examinemo -la \nagora, em todos os seus vários pontos. Diz, primeiro, que cometo \ncrime, corrompendo jovens. Ao contrário, eu digo, cidadãos \natenienses, Meleto é quem comete crime, porque brinca com as coisas \ngraves. Conduzindo com facilidade os homens ao tribunal, \naparentando ter cuidado e interesse por coisas em que de fato nunca \npensou. Procurarei mostrar-vos que é bem assim. \nXI",
+    "ner": [
+      {
+        "text": "Examinemo",
+        "label": "LOC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Procurarei",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 9,
+    "chunk_id": "apologia_9_0",
+    "texto": "-Agora, dize-me, Meleto: não é verdade que te importa bastante que os \njovens se tornem cada vez melhores, tanto quanto possível? \n-Sim, é certo. \n-Vamos, pois, dize-lhes quem os torna melhores; é claro que tu o deves \nsaber, sendo coisa que te preocupa, tendo de fat o encontrado quem os \ncorrompe, como afirmas, uma vez que me trouxeste aqui e me acusa. \nContinua, fala e indica-lhes quem os torna melhores. Vê, Meleto, calas \ne não sabes o que dizer. E, ao contrário não te parece vergonhoso e \nsuficiente prova do que justamente eu digo, que nunca pensaste em \nnada disso? Mas, dizes, homem, de bem, quem os torna melhores? \n-As leis. \n- Mas não pergunto isso, ótimo homem, mas qual o homem que sabe, \nem primeiro lugar, isso exatamente, as leis. \n- Aqueles, Sócrates, os juízes.",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Continua",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 9,
+    "chunk_id": "apologia_9_1",
+    "texto": "em primeiro lugar, isso exatamente, as leis. \n- Aqueles, Sócrates, os juízes. \n- Como, Meleto, esses são capazes de educar os jovens e os tornar \nmelhores? \n-Como não? \n-Todos, ou alguns apenas, outros não? \n- Todos. \n- Muito bem respondido, por Hera: Vê quanta abundância de pessoas \núteis! Como ? Também estes, que nos escutam, tornam melhores os \njovens ou não? \n- Também estes. \n-E os senadores? \n-Também os senadores. \n- É assim, Meleto. Não corrompem os jovens os cidadãos da \nAssembléia, ou também todos esses os tornam melhores? \n- Também esses. \n-Assim, pois, todos os homens, como parec e, tornam melhores os \njovens, exceto eu. Só eu corrompo os jovens. Não é isso? \n- Isso exatamente afirmo de modo conciso. \n- Oh! Que grande desgraça descobriste em mim! E responde -me: será",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Hera",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Assembléia",
+        "label": "LOC"
+      },
+      {
+        "text": "Oh!",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 9,
+    "chunk_id": "apologia_9_2",
+    "texto": "- Oh! Que grande desgraça descobriste em mim! E responde -me: será \nassim também para os cavalos? que aqueles que os tonam melhores \nsão todos homens e que só um os corrompe? ou será o contrário, que \num só é capaz de os tornar melhores, e bem poucos aqueles que \nentendem de cavalos; e os mais, quando querem manejá-los e usá-los,",
+    "ner": [
+      {
+        "text": "Oh!",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 10,
+    "chunk_id": "apologia_10_0",
+    "texto": "os estragam? Não é assim, Meleto, para os cavalos como para todos os \nanimais? Sim, certamente, ainda que tu e Anito o neguem ou afirmem. \nPois seria uma grande fortuna para os jovens que um só corrompesse e \nos outros lhe fossem todos úteis. Mas, na realidade, Meleto, mostraste \no suficiente que jamais te preocupaste com os jovens, e claramente \nrevelaste o teu desmazelo, que nenhum pensamento te passou pela \nmente, disto que me acusas. \nXII \n- E , agora, dize -me, por Zeus, Meleto: que é melhor, viver entre \nvirtuosos cidadãos ou entre malvados? Responde, meu caro, não te \npergunto uma coisa difícil. Não fazem os malvados alguma maldade \naos que são seus vizinhos, e alguns benefícios os bons? \n- Certamente. \n- E haverá quem prefira receber malefícios a ser auxiliado opor aqueles",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 10,
+    "chunk_id": "apologia_10_1",
+    "texto": "- Certamente. \n- E haverá quem prefira receber malefícios a ser auxiliado opor aqueles \nque estão com ele? Responde, porque também a lei manda responder. \nHá os que gostam de ser prejudicados. \n-Não,por certo. \n-Vamos, pois, tu me acusas como pessoa que corrompe os jovens e os \ntorna piores, voluntariamente ou involuntariamente? \n- Para mim, voluntariamente. \n- Como, Meleto? Tu, nesta idade, és mais sábio do que eu, tão velho, \nsabendo que os maus fazem sempre mal aos mais próximos e os bons \nfazem bem: eu, pois, cheguei a tal grau de ignorância que não si nem \nisso, que se tornasse maus alguns daqueles que estavam comigo, \ncorreria o risco de receber dano, se é que faço um tão grande mau, \ncomo dizes. Não te creio, Meleto, quanto a isso, e ninguém te acredita, \npenso.",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 10,
+    "chunk_id": "apologia_10_2",
+    "texto": "como dizes. Não te creio, Meleto, quanto a isso, e ninguém te acredita, \npenso. \nMas. ou não os corrompo, ou, se os corrompo, é involuntariamente, e \nem ambos os casos mentiste. E, se os corrompo involuntariamente , \nnão há leis que mandem trazer aqui alguém, por tais fatos \ninvoluntários, mas há as que mandam conduzi -lo em particular, \ninstruindo-o, advertindo-o; é claro que se me convencer, cessarei de \nfazer o que estava fazendo sem querer. Tu. ao contrário, evitaste \nencontrar-me e instruir-me, não o quiseste; e me conduzes aqui, onde a \nlei ordena citar aqueles que tem necessidade de pena e não de \ninstrução.",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 11,
+    "chunk_id": "apologia_11_0",
+    "texto": "XIII \nMas, cidadãos atenienses, os fatos evidenciaram o que eu sempre disse. \nJamais Meleto prestou atenção a t ais coisas, nem muita, nem pouca. \nTodavia, explica, Meleto, o que significa a tua expressão, dizendo \ncorrompo os jovens. É claro, segundo a acusação escrita por ti mesmo, \nque ensino a não respeitar os deuses que a cidade respeita, porém, \noutras divindades novas. Não dizes que os corrompo, ensinando tais \ncoisas? \n-Sim, é isso mesmo que eu digo, sempre que posso. \n- Assim, pois, Meleto, por estes mesmos deuses, de que agora está \nfalando, fala ainda mais claro, a mim e aos outros. Não consigo \nentender se dizes que eu ensino a creditar que existem certos deuses - e \nem verdade creio que existem deuses, e não sou de todo ateu, nem sou",
+    "ner": [
+      {
+        "text": "Jamais Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 11,
+    "chunk_id": "apologia_11_1",
+    "texto": "em verdade creio que existem deuses, e não sou de todo ateu, nem sou \nculpado de tal erro - mas não são os da cidade, porém outros, e disso \nexatamente me acusas, dizendo que eu creio em outros deuses. Ou \ndizes que eu mesmo não creio inteiramente nos deuses e que ensino \nisso aos outros? \n- Eu digo isso, que não acreditas inteiramente nos deuses. \n- Admirável Meleto, a quem disse eu isso? Não creio, pois, do mesmo \nmodo que os outros homens, que o sol e a lua são deuses? \n-Não, por Zeus, ó juízes: ele disse de fato que o sol é uma pedra, e a \nlua, terra. \n- Tu acreditas acusar Anáxagoras, caro Meleto; e me desprezas tanto e \nme consideras tão privado de letras a ponto de não saber que os livros \nde Anáxagoras Clazomênio estão cheios de tais raciocínios? De modo",
+    "ner": [
+      {
+        "text": "Admirável Meleto",
+        "label": "MISC"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "terra",
+        "label": "LOC"
+      },
+      {
+        "text": "Anáxagoras",
+        "label": "LOC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anáxagoras Clazomênio",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 11,
+    "chunk_id": "apologia_11_2",
+    "texto": "de Anáxagoras Clazomênio estão cheios de tais raciocínios? De modo \nque os jovens aprendem coisas de mim, pelas quais podem talvez, \npagando todos no máximo uma dracma, rir -se de Sócrates, quando se \nlhe atribui arrogância, embora isso pareça estranho. Mas, por Zeus, \nassim te parece, que eu creio que não exista nenhum deus? \n-Nenhum, por Zeus, nenhum mesmo. \n- És de certo, indigno de fé, Meleto, e também a ti mesmo, me parece, \ntais coisas são inacreditáveis. Porque este homem, cidadãos atenienses, \nme parece a própria arrogância e imprudência, e certamente escreveu \nessa acusação por medo, intemperança e leviandade juvenil. De fato \nele, para mim, se assemelha a alguém que proponha um enigma e diga, \ninterrogando-se a si mesmo: Perceberá Sócrates, o sábio, que eu estou",
+    "ner": [
+      {
+        "text": "Anáxagoras Clazomênio",
+        "label": "LOC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 12,
+    "chunk_id": "apologia_12_0",
+    "texto": "zombando dele e me contradigo, ou conseguirei enganá-lo e aos outros \nque me ouvem? E, ao contrário, me parece que, no ato da acusação, se \ncontradiz de propósito, como se dissesse: Sócrates comete crime, não \nacreditando nos deuses, mas acreditando nos deuses. E isso, na verdade \né fazer zombaria.] \nXIV \n- Considerai, pois, comigo, ó cidadãos, de que modo me parece que ele \ndiz isso. Responde -nos tu, Meleto, e vós, como pedi a princípio, não \nfaçais rumor contra mim, se conduzo o raciocínio desse modo. \nExistem entre os h omens, Meleto, os que acreditam que há coisas \nhumanas, que não há homens? Que responda ele, ó juízes, sem \nresmungar ora uma coisa ora outra. Há os que acreditam que não há \ncavalos, e coisas que tenham relação com os cavalos sim? Ou",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 12,
+    "chunk_id": "apologia_12_1",
+    "texto": "cavalos, e coisas que tenham relação com os cavalos sim? Ou \nacreditam que não há flautistas, e coisas relativas à flauta sim? Não \nhá? Ótimo homem, se não queres responder, digo-o eu, aqui, a ti e aos \noutros presentes. Mas, ao menos, responde a isto: Há quem acredite \nque há coisas demoníacas, e demônios não? \n- Não há. \n-Oh! como estou con tente que tenhas respondido de má vontade, \nconstrangido por outros! Tu dizes. pois, que eu creio e ensino coisas \ndemoníacas, sejam novas, sejam velhas; portanto, segundo o teu \nraciocínio, eu creio que há coisas demoníacas e o juraste na tua \nacusação. Ora, se creio que há coisas demoníacas, certo é \nabsolutamente necessário que eu creia também na existência dos \ndemônios. Não é assim? Assim é: estou certo de que o admites, porque",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 12,
+    "chunk_id": "apologia_12_2",
+    "texto": "demônios. Não é assim? Assim é: estou certo de que o admites, porque \nnão respondes. E não temo em apreço os demônios como deuses ou \nfilho de deuses? Sim, ou não? \n- Sim, é certo. \n- Se, pois, creio na existência dos demônios, como dizes, se os \ndemônios são uma espécie de deuses, isso seria propor que não \nacredito nos deuses, e depois, que, ao contrário, creio nos deuses, \nporque ao menos creio na existência dos demônios. Se, por outra parte, \nos demônios são filhos bastardos dos deuses com as ninfas, ou outras \nmulheres, das quais somente se dizem nascidos, quem jamais poderia \nter a certeza de que são filhos dos deuses se não existem deuses? Seria \nde fato d o mesmo modo absurdo que alguém acreditasse nas mulas,",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 13,
+    "chunk_id": "apologia_13_0",
+    "texto": "filas de cavalos e das jumentas, e acreditassem não existirem cavalos e \nasnos. Mas, Meleto, tua acusação foi feita para me pôr à prova, ou \ntambém por não saber a verdadeira culpa que me pudesses atribuir: por \nque, pois, te arriscas a persuadir um homem, mesmo de mente restrita, \nde que pode a mesma pessoa acreditar na existência das coisas \ndemoníacas e divinas, e, de outro lado, essa pessoa não admitir \ndemônios, nem deuses, nem heróis? Isso não é possível. \nXV \n \n \n \n \nEm realidade, cidadãos atenienses, para demonstrar que não sou réu, \nsegundo a acusação de Meleto, não me parece ser necessária longa \ndefesa, mas isso basta. Aquilo, pois, que eu dizia no princípio, que há \nmuito ódio contra mim, e muito acumulado, bem sabeis que é verdade.",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 13,
+    "chunk_id": "apologia_13_1",
+    "texto": "muito ódio contra mim, e muito acumulado, bem sabeis que é verdade. \nE isso é o que me vai perder, se eu me perder ... e não Meleto, ou \nAnito, mas, a calúnia e a insídia do povo: pela mesma razão se \nperderam muitos outros homens virtuosos, e outros ainda, creio, serão \nperdidos; não há perigo que a série se feche comigo. Mas talvez \npudesse alguém dizer: Não te envergonhas, Sócrates, de te aplicardes a \ntais ocupações, pelas quais agora está arriscado a morrer? A isso, porei \njusto raciocínio, e é o seguinte: não estás falando bem, meu caro, se \nacreditas que um homem, de qualquer utilidade, por menor que seja, \ndeve fazer caso dos riscos de viver ou morrer, e , ao contrário, só deve \nconsiderar uma coisa: quando fizer o que quer que seja, deve",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 13,
+    "chunk_id": "apologia_13_2",
+    "texto": "considerar uma coisa: quando fizer o que quer que seja, deve \nconsiderar se faz coisa justa ou injusta, se está agindo com o homem \nvirtuoso ou desonesto. Porquanto, segundo a tua opinião, seriam \ndesprezíveis todos aqueles semi -deuses que morreram em Tróia. E, \ncom eles, o filho de Tétis, o qual, para não sobreviver à vergonha, \ndesprezou de tal modo o perigo que, desejoso de matar Heitor, não deu \nouvido à predição de sua mãe, que era uma deusa, e a qual lhe deve ter \ndito mais ou menos isto: -Filho, se vingares a morte de teu amigo \nPátroclo e matares Heitor, tu mesmo morrerás, porque, imediatamente \ndepois de Heitor, o teu destino estará terminado . - Ouviu tais \npalavras, não fez nenhum caso da morte e dos perigos, e, temendo",
+    "ner": [
+      {
+        "text": "Tróia",
+        "label": "LOC"
+      },
+      {
+        "text": "Tétis",
+        "label": "PER"
+      },
+      {
+        "text": "Heitor",
+        "label": "PER"
+      },
+      {
+        "text": "Pátroclo",
+        "label": "PER"
+      },
+      {
+        "text": "Heitor",
+        "label": "PER"
+      },
+      {
+        "text": "Heitor",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 14,
+    "chunk_id": "apologia_14_0",
+    "texto": "muito mais o viver ignóbil e não vingar os amigos, disse: Morra eu \nimediatamente depois de ter punido o culpado, para que não permaneça \naqui como objeto de riso, junto das minhas naus recurvas inútil \nfardo da terra . Crês que tenha feito caso dos perigos e da morte? \nPorque em verdade assim é, cidadãos atenienses: onde quer que \nalguém tenha colocado, reputando o melhor posto, ou se for ali \ncolocado pelo comandante, tem necessidade, a meu ver, de ir firme ao \nencontro dos perigos, sem se importar com a morte ou com coisa \nalguma, a não ser com as torpezas. \nXVI \nGravíssimo erro deveria considerar, cidadãos atenienses, quando os \ncomandantes, por vós eleitos para me dirigirem, me assinalaram um \nposto em Potidéia, em Anfípolo, em Délio, não ter ficado eu onde me",
+    "ner": [
+      {
+        "text": "Morra",
+        "label": "PER"
+      },
+      {
+        "text": "Gravíssimo",
+        "label": "LOC"
+      },
+      {
+        "text": "Potidéia",
+        "label": "LOC"
+      },
+      {
+        "text": "Anfípolo",
+        "label": "MISC"
+      },
+      {
+        "text": "Délio",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 14,
+    "chunk_id": "apologia_14_1",
+    "texto": "posto em Potidéia, em Anfípolo, em Délio, não ter ficado eu onde me \ncolocaram como qualquer outro e correndo perigo de morte. Quando, \npois, o deus me ordenava, como penso e estou convencido, que eu \ndevia viver filosofando e examina ndo a mim mesmo e aos outros, \nentão eu, se temendo a morte ou qualquer outra coisa, tivesse \nabandonado o meu posto, isso seria deveram intolerável. Nesse caso, \ncom razão, alguém poderia conduzir -me ao tribunal, e acusar -me de \nnão acreditar na existência dos deuses, desobedecendo ao oráculo, e \ntemendo a morte, e reputando-me sábio sem o ser. \nPois que, ó cidadãos, o temer a morte não é outra coisa que parecer ter \nsabedoria, não tendo. É de fato parecer saber o que não se sabe. \nNinguém sabe, na verdade, se por acaso a morte não é o maior de todos",
+    "ner": [
+      {
+        "text": "Potidéia",
+        "label": "LOC"
+      },
+      {
+        "text": "Anfípolo",
+        "label": "MISC"
+      },
+      {
+        "text": "Délio",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 14,
+    "chunk_id": "apologia_14_2",
+    "texto": "Ninguém sabe, na verdade, se por acaso a morte não é o maior de todos \nos bens para o homem, e entretanto todos a temem, como se \nsoubessem, com certeza, que é o maior dos males. E o que é senão \nignorância, de todas a mais reprovável, acreditar saber aquilo que não \nse sabe? Eu, por mim, ó cidadãos, talvez nisso seja diferente da maior \nparte dos homens, eu diria isto: não sabendo bastante das coisas do \nHades, delas não fugirei. Mas fazer injustiça, desobedecer a quem é \nmelhor e sabe mais do que nós, seja deus, seja homem. isso é que é mal \ne vergonha. Não temerei nem fugirei das coisas que não sei se, por \nacaso, são boas ou más. Anito disse que, ou não se devia, desde o \nprincípio, trazer -me aqui, ou, uma vez que me trouxeram não é",
+    "ner": [
+      {
+        "text": "Hades",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 14,
+    "chunk_id": "apologia_14_3",
+    "texto": "princípio, trazer -me aqui, ou, uma vez que me trouxeram não é \npossível deixarem de me condenar à morte, afirmando que, se eu me \nsalvasse, imediatamente os vossos filhos, seguindo os ensinamentos de",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 15,
+    "chunk_id": "apologia_15_0",
+    "texto": "Sócrates, estariam de fato corrompidos. Mas, se me absolvêsseis, não \ncedendo a Anito, se me dissésseis: Sócrates, agora não damos crédito a \nAnito, mas te absolveremos, contando que n ão te ocupes mais dessas \ntais pesquisas e de filosofar, porque, se fores apanhado ainda a fazer \nisso, morrerás; se, pois, me absolvêsseis sob tal condição, eu vos diria: \n- Cidadãos atenienses, eu vos respeito e vos amo, mas obedecerei aos \ndeuses em vez de obedecer a vós, e enquanto eu respirar e estiver na \nposse de minhas faculdades, não deixarei de filosofar e de vos exortar \nou de instruir cada um, quem quer que seja que vier à minha presença, \ndizendo-lhe, como é meu costume: - Ótimo homem, tu que és cidadão \nde Atenas, da cidade maior e mais famosa pelo saber e pelo poder, não",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "de Atenas",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 15,
+    "chunk_id": "apologia_15_1",
+    "texto": "de Atenas, da cidade maior e mais famosa pelo saber e pelo poder, não \nte envergonhas de fazer caso das riquezas, para guardares quanto mais \npuderes e da glória e das honrarias, e, depois, não fazer caso e nada te \nimportares de sabedoria, da verdade e da alma, para tê -la cada vez \nmelhor? \nE, se algum de vós protestar e prometer cuidar , não o deixarei já, nem \nirei embora, mas o interrogarei e o examinarei e o convencerei, e, em \nqualquer momento que pareça que não possui virtude, convencido de \nque a possuo, o reprovarei, porque faz pouquíssimo caso das coisas de \ngrandíssima importância e grande caso das parvoíces. E isso o farei \ncom quem quer que seja que me apareça, seja jovem ou velho, \nforasteiro ou cidadão, tanto mais com os cidadãos quanto mais me",
+    "ner": [
+      {
+        "text": "de Atenas",
+        "label": "LOC"
+      },
+      {
+        "text": "guardares",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 15,
+    "chunk_id": "apologia_15_2",
+    "texto": "forasteiro ou cidadão, tanto mais com os cidadãos quanto mais me \nsejam vizinhos por nascimento. \nIsso justamente é o que me manda o deus, e vós o sabeis, e creio que \nnenhum bem maior tendes na cidade, maior que este meu serviço do \ndeus. \nPor toda parte eu vou persuadindo a todos, jovens e velhos, a não se \npreocuparem exclusivamente, e nem tão ardentemente, com o corpo e \ncom as riquezas, como devem preocupar -se com a alma, para que ela \nseja quanto possível melhor, e vou dizendo que a virtude não nasce da \nriqueza, mas da virtude vem, aos homens, as riquezas e todos os outros \nbens, tanto públicos como privados. \nSe, falando assim, eu corrompo os jovens, tais raciocínios são \nprejudiciais; mas se alguém disser que digo outras coisas que não",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 15,
+    "chunk_id": "apologia_15_3",
+    "texto": "prejudiciais; mas se alguém disser que digo outras coisas que não \nessas, não diz a verdade. Por isso vos direi, cidadãos atenienses, que",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 16,
+    "chunk_id": "apologia_16_0",
+    "texto": "secundado Anito ou não, absolvendo-me ou não, não farei outra coisa, \nnem que tenha de morrer muitas vezes. \nVII \nNão façais rumor, cidadãos atenienses, mas perseverai no que vos \nestou dizendo, isto é, não vocifereis pelas coisas que vos digo, mas \nouvi-me; pois escutando-me, penso que tirareis proveito. \nAqui estou para vos dizer algumas outras coisas, e talvez, por isso, \nlevantareis a voz, mas não o deveis fazer. Sabei -o bem: se me \ncondenais a morrer, a mim que sou tal como eu digo, não causareis \nmaior dano a mim que vós mesmos. E, de fato, nem Meleto, nem Anito \nme poderiam fazer mal em coisa em alguma: isso jamais seria possível, \npois que não pode acontecer que um homem melhor receba dano de \num pior. É possível que me mandem matar, ou me exilem, ou me",
+    "ner": [
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 16,
+    "chunk_id": "apologia_16_1",
+    "texto": "um pior. É possível que me mandem matar, ou me exilem, ou me \ntolham os direitos civis; mas provavelmente, eles ou quaisquer outros \nreputam tais coisas como grandes males, ao passo que eu não \nconsidero assim, e, ao contrário considero muito maior mal fazer o \nque agora eles estão fazendo, procurando matar injustamente um \nhomem. \nOra, pois, ci dadãos atenienses, estou bem longe de me defender por \namor a mim mesmo, como alguém poderia supor, mas por amor a vós, \npara que, condenando-me, não tenhais de cometer o erro de repelir o \ndom de mim que vos fez o deus. Pois que, se me mandares matar, não \nencontrareis facilmente outro igual, que (pode parecer ridículo dizê-lo) \ntenha sido adaptado pelo deus à cidade, do mesmo modo com a um",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 16,
+    "chunk_id": "apologia_16_2",
+    "texto": "tenha sido adaptado pelo deus à cidade, do mesmo modo com a um \ncavalo grande e de pura raça, mas um pouco lerdo pela sua gordura, é \naplicada a necessária esporada para sacudi -lo. assim justamente me \nparece que o deus me aplicou à cidade, de maneira que, despertando \ncada um de vós e persuadindo -vos e desaprovando-vos, não deixo de \nvos esporar os flancos, por toda a parte, durante todo o dia. \nE outro parecido, não tereis tão facilmente, cidadãos. Mas, se me \nouvísseis me pouparíeis. É possível que vós irritados como aqueles \nque são despertados quando no melhor do dono, repelindo -me para \ncondescender com Anito, levianamente me condeneis à morte, para \ndormirdes o resto da vida, se, entretanto, o deus, pensando em vós, não \nvos mandar algum outro.",
+    "ner": [
+      {
+        "text": "Anito",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 17,
+    "chunk_id": "apologia_17_0",
+    "texto": "Que eu seja um homem cuja qualidade é a de ser um dom feito pelo \ndeus à cidade podereis deduzir do seguinte: não é, na verdade, do \nhomem, eu ter descuidado das minhas coisas, resignando-me por tantos \nanos a me descuidar dos negócios domésticos para acudir sempre aos \nvossos, aproximando -me sempre de cada um de vós em particular \ncomo um pai ou irmão mais velho, persuadindo -vos a vos \npreocupardes com a virtude? Se, em verdade, disto eu obtivesse \nqualquer coisa e recebesse compensação de tais advertências, teria uma \nrazão. Mas agora vós mesmos vedes que os acusadores, tendo acusado \na mim, com tanta imprudência, de tantas outras coisas, não foram \ncapazes de apresentar uma testemunha de que eu tenha contratado ou \npedido alguma recompensa.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 17,
+    "chunk_id": "apologia_17_1",
+    "texto": "capazes de apresentar uma testemunha de que eu tenha contratado ou \npedido alguma recompensa. \nPois bem; apresento um testemunho suficiente do que digo: a minha \npobreza. \nXVIII \nMas, poderia talvez parecer estranho que eu, andando daqui para lá, me \ncansasse dando em particular esses conselhos, e depois, em público, \nnão ousasse, subindo diante do vosso povo aconselhar a cidade. A \ncausa disso é a que em várias circunstâncias, eu vos disse muitas \nvezes: a mim me acontece qualquer coisa de divino e demoníaco; isso \njustamente Meleto escreveu também no ato da acusação, zombando de \nmim mim. E tal fato começou comigo em criança. Ouço uma voz, e \ntoda vez que isso acontece ela me desvia do que estou a pique de fazer, \nmas nunca me leva à ação. Ora, é isso que me impede de me ocupar",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 17,
+    "chunk_id": "apologia_17_2",
+    "texto": "mas nunca me leva à ação. Ora, é isso que me impede de me ocupar \ndos negócios do Estado. E até me parece que muito a propósito mo \nimpede, porquanto, sabei-o bem, cidadãos atenienses, se eu, há muito \ntempo, tivesse empreendido ocupar-me com os negócios do Estado há \nmuito tempo já estaria morto, e não teria sido útil em nada, nem a vós, \nnem a mim mesmo. \nE não vos encolerizeis comigo, porque digo a verdade; não há nenhum \nhomem que se salve, se quer opor -se, com franqueza, a vós ou a \nqualquer outro povo, e impedir que muitos atos contrários à justiça e \nàs leis se pratique na cidade. E não há outro caminho: quem combate \nverdadeiramente pelo que é justo, se quer ser salvo por algum tempo, \ndeve viver a vida privada, nunca meter-se nos negócios públicos.",
+    "ner": [
+      {
+        "text": "Estado",
+        "label": "LOC"
+      },
+      {
+        "text": "Estado",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 18,
+    "chunk_id": "apologia_18_0",
+    "texto": "Disso vos poderei dar grandes provas, não palavras, mas o que prezei: \nfatos. Ouvi, pois, de minha boca, o que me aconteceu, para que não \nsaibais que não há ninguém a quem eu tenha feito concessões com \ndesprezo da justiça e por medo da morte; e que, ao mesmo tempo, por \nessa recusa de toda concessão deverei morrer. Dir-vos-ei talvez coisas \ncomuns e pedantescas, mas verdadeiras. De fato, cidadãos atenienses, \nnão tenho mais nenhum cargo público na cidade, mas fui senador, e e, \nà nossa Antiquóida coube por sorte a Pritânia, quando quisestes que \naqueles dez estrategistas, que não haviam recolhidos os mortos e os \nnáufragos da batalha naval, fossem julgados coletivamente, contra a \nlei, no que todos vós conviestes. Então somente eu, dos pritanos, me",
+    "ner": [
+      {
+        "text": "Antiquóida",
+        "label": "MISC"
+      },
+      {
+        "text": "Pritânia",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 18,
+    "chunk_id": "apologia_18_1",
+    "texto": "lei, no que todos vós conviestes. Então somente eu, dos pritanos, me \nopus a vós, não querendo agir em oposição à lei ,e votei contra. E, \nembora os oradores estivessem prontos a me acusar e me prender, e \nvós os encorajásseis vociferando, mesmo assim, achei que me \nconvinha mais correr perigo com a lei e com o que era justo, do que, \npor medo do cárcere e da morte, estar convosco, vós que deliberáveis o \ninjusto. \nIsso acontecia quando a cidade era ainda governada pela democracia. \nQuando veio a oligarquia, os Trinta, novamente tendo -me chamado, \nem quinto lugar, ao Tolo, orderam -me que fosse à Salamina buscar o \nLeão Salamínio, para que fosse morte. Muitos fatos desse gênero \ntinham sido ordenados a muitos outros, com o fim de cobrir de",
+    "ner": [
+      {
+        "text": "Trinta",
+        "label": "ORG"
+      },
+      {
+        "text": "Tolo",
+        "label": "MISC"
+      },
+      {
+        "text": "Salamina",
+        "label": "PER"
+      },
+      {
+        "text": "Leão Salamínio",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 18,
+    "chunk_id": "apologia_18_2",
+    "texto": "tinham sido ordenados a muitos outros, com o fim de cobrir de \ninfâmia quanto pudessem. Também naquele momento, não com \npalavras mas com fatos, demonstrei de novo que a morte não me \nimportava, ou me importava menos que um figo, eu diria se não fosse \nindelicado dizê-lo. Mas não fazer nada de injusto e de ímpio isso sim, \nme importa acima de tudo. Pois aquele governo, embora tão violento, \nnão me intimidou, para que fizesse alguma injustiça; mas quando \nsaímos de tolo, os outros quatro foram à Salaminas e trouxeram Leão, \ne eu, ao contrário, afastei-me deles e fui para casa. Naquela ocasião, eu \nteria sido morto, se o governo não fosse derrubado pouco depois. E \ndisso tendes testemunhas em grande número \nXIX \nOra, julgais que eu teria vivido tantos anos, se me tivesse aplicado aos",
+    "ner": [
+      {
+        "text": "Salaminas",
+        "label": "MISC"
+      },
+      {
+        "text": "Leão",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 18,
+    "chunk_id": "apologia_18_3",
+    "texto": "XIX \nOra, julgais que eu teria vivido tantos anos, se me tivesse aplicado aos \nnegócios públicos, e procedendo como homem de bem, tivesse \ndefendido as coisas justas, e, como deve ser, tivesse dado a isso maior",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 19,
+    "chunk_id": "apologia_19_0",
+    "texto": "importância? Muito longe disso, cidadãos atenienses; na verdade, \ntambém nenhum outro se teria salvo! Eu, porém, durante toda a minha \nvida, se fiz alguma c oisa, em público ou em particular, vos apareço \nsempre o mesmo, não tendo jamais concedido coisa alguma contra a \njustiça nem aos outros nem a algum daqueles que meus caluniadores \nchamam de meus discípulos. \nMas nunca fui mestre de ninguém: de, pois, alguém mostrou desejoso \nda minha presença quando eu falava, e acudiam à minha procura jovens \ne velhos, nunca me recusei a ninguém. Nunca, ao menos, falei de \ndinheiro; mas igualmente me presto a me interrogar os ricos e os \npobres, quando alguém, respondendo, quer ouvir o que digo. e se \nalgum deles se torna melhor, ou não se torna não posso ser",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 19,
+    "chunk_id": "apologia_19_1",
+    "texto": "algum deles se torna melhor, ou não se torna não posso ser \nresponsável, pois que não prometi, nem dei, nesse sentido, nenhum \nensinamento. E, se alguém afirmar que aprendeu ou ouviu de mim, em \nparticular, qualquer coisa de diverso do que disse a todos os outros, \nsabei bem que não diz a verdade. \nXX \nEntretanto, como pode acontecer que alguns se comprazam em passar \nmuito tempo comigo? Já ouvistes, cidadãos atenienses, eu já vos disse \ntoda a verdade: é porque tomam gosto em ouvir examinar aqueles que \nacreditam ser sábio e não o são; não é de fato coisa desagradável. E, \ncomo disse, foi o deus que me ordenou a fazê -lo, com oráculos, com \nsonhos, e com outros meios, pelos quais algumas vezes a divina a \nvontade ordena a um homem que faça o que quer que seja.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 19,
+    "chunk_id": "apologia_19_2",
+    "texto": "vontade ordena a um homem que faça o que quer que seja. \nTudo isso, cidadãos atenienses, é verdade e fácil de provar. Com efeito, \nsuponhamos que, entre os jovens, há alguns que estou corrompendo e \noutros que já corrompi: seria aparentemente inevitável que alguns \ndestes, quando tiveram mais idade, compreendessem que eu lhes tinha \nalguma vez aconselhado uma ação má - e hoje deveriam estar aqui para \nme acusar e vingar-se de mim. Suponhamos ainda, que eles não teriam \nquerido vir pessoalmente: mesmo assim, alguns de seus parentes, pais, \nirmãos ou pessoas de família, se algum dia receberam danos de minha \nparte, agora deveriam recordar e tirar vingança. \nMas eis que vejo aqui presentes muitos desses: primeiro Críton, meu \ncoevo e do mesmo demos, pai de Critóbulo; depois Lisânias Sfécio,",
+    "ner": [
+      {
+        "text": "Críton",
+        "label": "PER"
+      },
+      {
+        "text": "Critóbulo",
+        "label": "PER"
+      },
+      {
+        "text": "Lisânias Sfécio",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 19,
+    "chunk_id": "apologia_19_3",
+    "texto": "coevo e do mesmo demos, pai de Critóbulo; depois Lisânias Sfécio, \npai de Epígenes, além destes outros cujos irmãos estiveram comigo na",
+    "ner": [
+      {
+        "text": "Critóbulo",
+        "label": "PER"
+      },
+      {
+        "text": "Lisânias Sfécio",
+        "label": "PER"
+      },
+      {
+        "text": "Epígenes",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 20,
+    "chunk_id": "apologia_20_0",
+    "texto": "intimidade: Nicostrato, filho de Teozóides e irmão de Teodoto (e \nTeodoto, que já é falecido, não poderia impedir Nicostrato de falar \ncontra mim). E há ainda, Paralo de Demócodo, irmão de Teageto, do \nqual é irmão Platão, e Aiantádoro, de que é irmão Apolodoro. E \nmuitos outros eu poderia citar, alguns dos quais especialmente \ndeveriam ter sido apresentados por meleto como testemunhas, no seu \ndiscurso. Mas, se agora se esquivam, aos presentes aqui eu lhes \npermito dizerem se há qualquer coisa dessa natureza. Mas vós, ó \njuízes, sois de parecer contrário, achareis que todos estão prontos a me \najudar; mas incorruptíveis homens já de idade avançada, parentes \ndaqueles, que razão teriam para me ajudar senão aquela, reta e justa, \nconvencidos de que Meleto mente e que eu digo a verdade?",
+    "ner": [
+      {
+        "text": "Nicostrato",
+        "label": "PER"
+      },
+      {
+        "text": "Teozóides",
+        "label": "PER"
+      },
+      {
+        "text": "Teodoto",
+        "label": "PER"
+      },
+      {
+        "text": "Teodoto",
+        "label": "PER"
+      },
+      {
+        "text": "Nicostrato",
+        "label": "PER"
+      },
+      {
+        "text": "Paralo de Demócodo",
+        "label": "PER"
+      },
+      {
+        "text": "Teageto",
+        "label": "PER"
+      },
+      {
+        "text": "Platão",
+        "label": "PER"
+      },
+      {
+        "text": "Aiantádoro",
+        "label": "PER"
+      },
+      {
+        "text": "Apolodoro",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 20,
+    "chunk_id": "apologia_20_1",
+    "texto": "convencidos de que Meleto mente e que eu digo a verdade? \nXXI \nAssim seja, ó cidadãos: é mais ou menos isso que eu poderei dizer em \nminha defesa ou qualquer coisa semelhante. Provavelmente, porém, \nalgum de vós poderá ficar encolerizado, recordan do-se de si mesmo. \nSe sustentou uma contenda embora em menor proporções do que essa \nminha, pediu e suplicou aos juízes, com muitas lágrimas, trazendo \naqui os filhos, e muitos outros parentes e amigos, a fim de mover a \npiedade ao seu favor. Eu não farei certamente nada disso, embora vá ao \nencontro, como se pode acreditar, do extremo perigo. É possível que \nqualquer um, considerando isso, pudesse irritar -se contra mim, e, \nencolerizado por isso mesmo, desse o voto com ira. Se, de fato, algum",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 20,
+    "chunk_id": "apologia_20_2",
+    "texto": "encolerizado por isso mesmo, desse o voto com ira. Se, de fato, algum \nde vós está em está em tal estado de alma, a mim me parece que \npoderei dizer -lhe o seguinte: Também eu, meu caro, tenho uma \nfamília, e bem posso, como em Homero, dizer que não nasci: \"de um \ncarvalho nem de um rochedo\", pois eu também tenho parentes e \nfilhinhos, ó cidadãos atenienses: três, um já jovenzinho e duas \nmeninas; mas contudo, não farei vir aqui nenhum deles para vos rogar \na minha absolvição. \nPorque razão não farei nada disso? Não é por soberbia, ó atenienses, \nnem por desprezo que eu tenha por vós, mas que eu seja co rajoso ao \nmenos defronte a morte, isto é outra coisa. Tratando -se de honra, não \nme parece belo, nem para mim nem para vós, pata toda cidade, que eu",
+    "ner": [
+      {
+        "text": "Homero",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 20,
+    "chunk_id": "apologia_20_3",
+    "texto": "me parece belo, nem para mim nem para vós, pata toda cidade, que eu \nfaça tal, na idade em que estou, e com este nome de sábio que me dão, \nseja ele merecido ou não. O fato é que me foi criada a fama de ser este",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 21,
+    "chunk_id": "apologia_21_0",
+    "texto": "Sócrates em quem há alguma coisa pela qual se tona superior à maioria \ndos homens. Ora, se aqueles que entre nós, tem a reputação de ser \nsuperiores aos demais, pela sabedoria, pela coragem, ou por qualquer \noutro mérito procedessem de tal modo, seria bem feito. \nFreqüentemente já notei essa atitude, quando são elas julgadas, em \npessoas que, malgrado a reputação de homens de valor que tem, se \nentregam a extraordinárias manifestações, inspiradas pela idéia de que \nserá coisa terrível ter de morrer: como se, no caso em que vós não o \nmandásseis à morte, devessem eles ser imortais. São esses homens que, \na meu ver, cobrem a cidade de vergonha, e que poderiam suscitar entre \nos estrangeiros a convicção de aqueles que os próprios atenie nses",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "vergonha",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 21,
+    "chunk_id": "apologia_21_1",
+    "texto": "os estrangeiros a convicção de aqueles que os próprios atenie nses \nescolheram, de preferência, para serem os seus magistrados e para as \ndemais dignidades, não se diferenciem das mulheres! \nÉ um procedimento, atenienses, que não deverá ser o vosso, quando \npossuirdes reputação em qualquer gênero de valor que seja; e que não \ndeveis permitir seja o meu, caso eu tenha alguma reputação, pois o que \ndeveis fazer é justamente que se compreenda isto: que aquele que se \napresenta no tribunal representando estes dramas lamentáveis será mais \ncertamente condenado por vós do que o que permanece tranqüilo. \nXXII \nMas mesmo não fazendo caso da reputação, ó cidadãos, não me parece \ntambém justo suplicar aos juízes e evitar a condenação com rogos, mas",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 21,
+    "chunk_id": "apologia_21_2",
+    "texto": "também justo suplicar aos juízes e evitar a condenação com rogos, mas \niluminá-los e persuadi -los. Que o juiz não ceda já por isso, não \ndispense sentença a favor, mas a pronuncie retamente e jure \ncondescender com quem lhe agrada, mas proceder segundo as leis. Por \nisso, nem nós devemos habituar -vos a proceder contra o vosso \njuramento, nem vós deveis permitir que nos habituemos a fazê-lo. \nNão espereis, cidadãos at enienses, que eu seja constrangido a fazer, \ndiante de vós, coisas tais que não considero nem belas, nem justas, nem \nsantas, especialmente agora, por Zeus, que sou acusado de impiedade \npor Meleto. \nÉ evidente que, se com todo vosso juramento, eu vos persuadisse e \ncom palavras vos forçasse, eu vos ensinaria a considerar que não",
+    "ner": [
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 21,
+    "chunk_id": "apologia_21_3",
+    "texto": "com palavras vos forçasse, eu vos ensinaria a considerar que não \nexistem deuses, e assim, enquanto me defendo, em realidade me \nacusaria, só pelo fato de não crer nos deuses.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 22,
+    "chunk_id": "apologia_22_0",
+    "texto": "Mas a coisa está bem longe de ser assim; porquanto, cidadãos \natenienses, c reio neles, como nenhum dos meus acusadores, e \nencarrego a vós e ao deus de julgar a mim, do modo que puder ser o \nmelhor para mim e para vós. \nSegunda Parte - Sócrates é condenado e sugere sua sentença \nXXIII \nA minha impassibilidade, cidadãos atenienses. diante da minha \ncondenação, entre muitas razões, deriva também desta: eu contava com \nisto, e até, antes me espanto do número dos dois partidos. Por mim, \nnão acreditava que a diferença fosse assim de tão poucos, mas de \nmuitos, pois, se somente trinta fossem da outra parte, eu estaria salvo \n(nota: dos 501 juízes, 280 a favor e 220 contra ). \nDe Meleto, ao contrário, estou livre, me parece ainda, e isso é evidente",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "XXIII",
+        "label": "PER"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 22,
+    "chunk_id": "apologia_22_1",
+    "texto": "De Meleto, ao contrário, estou livre, me parece ainda, e isso é evidente \na todos: se Anito e Licon não viessem aqui acusar -me Meleto teria \nsido multado em mil dracmas, não tendo obtido o quinto dos votos. \nXXIV \nEles pedem, pois, para mim, a pena de morte. Pois bem, atenienses, que \ncontraproposta vos farei eu? A que mereço, não é assim? Qual, pois? \nQue pena ou multa mereço eu, que em toda a vida não repousei um \nmomento, mas descuidando daquilo que todos tem em grande conta, a \naquisição de riquezas e a administração doméstica, e os comandos \nmilitares, e as altas magistraturas, e as conspirações, e os partidos que \nsurgem na cidade, conservei-me na realidade de ânimo bastante brando \npara que pudesse, fugindo de tais intrigas, me livrar delas, não indo",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "Anito",
+        "label": "LOC"
+      },
+      {
+        "text": "Licon",
+        "label": "MISC"
+      },
+      {
+        "text": "Meleto",
+        "label": "PER"
+      },
+      {
+        "text": "XXIV \n",
+        "label": "MISC"
+      },
+      {
+        "text": "repousei",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 22,
+    "chunk_id": "apologia_22_2",
+    "texto": "para que pudesse, fugindo de tais intrigas, me livrar delas, não indo \naonde a minha presença não fosse de nenhuma vantagem nem para vós \nnem para mim mesmo? Voltava-me, ao contrário, para os lados aonde \neu poderia levar, a cada um em particular, os ma iores benefícios, \nprocurando persuadir cada um de vós a não se preocupar \ndemasiadamente com suas próprias coisas, antes que de si mesmo, para \nse tornar quanto mais honesto fosse possível; a não cuidar dos \nnegócios da cidade antes que da própria cidade, e preocupar-se, assim, \ndo mesmo modo, com outras coisas. De que sou digno eu, tendo sido \nassim procedido? De um bem, cidadãos atenienses, se devo fazer uma \nproposta conforme o mérito; e um bem tal que me possa convir. E, que",
+    "ner": [
+      {
+        "text": "Voltava-me",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 22,
+    "chunk_id": "apologia_22_3",
+    "texto": "proposta conforme o mérito; e um bem tal que me possa convir. E, que \nconvém a um pobre benemérito que t em necessidade de estar em paz, \npara vos exortar ao caminho reto? Não há coisa que melhor convenha,",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 23,
+    "chunk_id": "apologia_23_0",
+    "texto": "cidadãos atenienses, que nutrir um tal homem a expensas do estado, no \nPritaneu; merece-o bem mais que um de vós que tenha sido vencedor \nnos Jogos olímpicos, na corrida de de cavalos, de bigas ou quadrigas! \nEsse homem, porém, faça com que o sejais; ele, homem rico, não tem \nnecessidade de que se cuide de sua subsistência, mas eu tenho \nnecessidade. Portanto, se devo fazer uma proposta segundo a justiça, \neis o qu e indico para mim: ser, a expensas do Estado, nutrido no \nPritaneu. \nXXV \nAo contrário, talvez vos pareça que eu, ainda falando disso, o faça com \narrogância, pouco mais ou menos como quando falava da consideração \ne dos rogos; mas não é assim, cidadãos atenienses, antes é deste modo: \nestou persuadido de que não ofendo ninguém por minha vontade, mas",
+    "ner": [
+      {
+        "text": "Pritaneu",
+        "label": "MISC"
+      },
+      {
+        "text": "Jogos olímpicos",
+        "label": "MISC"
+      },
+      {
+        "text": "Estado",
+        "label": "LOC"
+      },
+      {
+        "text": "Pritaneu",
+        "label": "MISC"
+      },
+      {
+        "text": "XXV",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 23,
+    "chunk_id": "apologia_23_1",
+    "texto": "estou persuadido de que não ofendo ninguém por minha vontade, mas \nnão vos posso persuadir também disto, porque o tempo em que \nestamos raciocinando juntos é brevíssimo; e eu creio que, se as vossas \nleis, como as de outros povos, n ão decidissem um juízo capital em um \ndia, mas em muitos, vos persuadiria: ora, não é fácil, em pouco tempo, \ndestruir grandes calúnias. \nEstando, pois, convencido de não ter feito injustiça a ninguém, estou \nbem longe de fazê-la, a mim mesmo e dizer em meu dano ,que mereço \num mal, e me assinalar um de tal sorte. Que devo temer? É possível \nque eu não tenha de sofrer a pena que me assinala Meleto e que eu digo \nignorar se será um bem ou mal? E, ao contrário disso, deverei escolher \numa daquelas que sei bem ser um mal, e propor -me essa pena? O",
+    "ner": [
+      {
+        "text": "Meleto",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 23,
+    "chunk_id": "apologia_23_2",
+    "texto": "uma daquelas que sei bem ser um mal, e propor -me essa pena? O \ncárcere? E por que devo viver no cárcere, escravo do magistrado que o \npreside, escravo dos Onze. Ou uma multa, ficando amarrado, quanto \nnão acabe de paga -la? Seria, pois, o exílio que deveria propor como \npena para mim? É possível que vós me indiquei essa pena. Ah! eu teria \nverdadeiramente um amor excessivo à vida se fosse irrefletido ao \nponto de não ser capaz de refletir nisso: vós que sois meus \nconcidadãos acabastes por não achar meios de suportar meus sermões; \nestes se tornaram para vós um fardo bastante pesado e detestável para \nque procurei hoje livrar -vos, serão os meus sermões mais fáceis de \nsuportar para os outros? Muito longe disso, atenienses!",
+    "ner": [
+      {
+        "text": "Onze",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 23,
+    "chunk_id": "apologia_23_3",
+    "texto": "suportar para os outros? Muito longe disso, atenienses! \nBela vida, em verdade, seria a minha, nesta idade, viver fora da pátria, \npassando de uma cidade a outra, expulso em degredo.",
+    "ner": [
+      {
+        "text": "Bela",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 24,
+    "chunk_id": "apologia_24_0",
+    "texto": "Sei bem que onde quer que eu vá, os jovens ouvirão os meus discursos \ncomo aqui: se eu os repelir, eles mesmos me mandarão embora, \nconvencendo os velhos a fazê -lo; e se não os repelir, os seus pais e \nparentes me mandarão embora igualmente, com qualquer pretexto. \nXXVI \nOra, é possível que alguém pergunte: - Sócrates, não poderias tu viver \nlonge da pária, calado e em paz? Eis justamente o que é mais difícil \nfazer aceitar a alguns dentre vós: se digo que seria desobedecer ao deus \ne que, por essa razão, eu não poderia ficar tranqüilo, não me \nacreditaríeis, supondo que tal afirmação é, de minha parte, uma fingida \ncandura. Se, ao contrário, digo que o maior bem para um homem é \njustamente este, falar todos os dias s obre a virtude e os outros",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 24,
+    "chunk_id": "apologia_24_1",
+    "texto": "justamente este, falar todos os dias s obre a virtude e os outros \nargumentos sobre os quais me ouvistes raciocinar, examinando a mim \nmesmo e aos outros, e, que uma vida sem esse exame não é digna de \nser vivida, ainda menos me acreditaríeis, ouvindo-me dizer tais coisas. \nEntretanto, é assim, como digo, ó cidadãos, mas não é fácil torná -lo \npersuasivo. \nE, por outro lado, não estou habituado a acreditar -me digno de \nnenhum mal. De fato, se tivesse dinheiro, me multaria em uma soma \nque pudesse pagar, porque não teria prejuízo algum; mas o fato é que \nnão tenho. Só se quiserdes multar-me em tanto quanto eu possa pagar. \nTalvez eu vos pudesse pagar uma mina de prata; multo -me, pois em \ntanto. Mas Platão, cidadãos atenienses, Críton, Cristóbolo e",
+    "ner": [
+      {
+        "text": "Platão",
+        "label": "PER"
+      },
+      {
+        "text": "Críton",
+        "label": "PER"
+      },
+      {
+        "text": "Cristóbolo",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 24,
+    "chunk_id": "apologia_24_2",
+    "texto": "tanto. Mas Platão, cidadãos atenienses, Críton, Cristóbolo e \nApolodoro me obrigam a multar -me em trinta minas, e oferecem \nfiança: multo-me, pois, em tanto, e eles vos serão fiadores dignos de \ncrédito. \nTerceira Parte - Sócrates se despede do tribunal \nXXVII \nPor não terdes querido esperar um pouco mais de tempo, atenienses, \nireis obter, da parte dos que desejam lançar o oprób io sobre a nosso \ncidade, a fama e a acusação de haverdes sido os assassinos de um \nsábio, de Sócrates. Porque, quem vos quiser desaprovar me chamará, \nsem dúvida, de sábio, embora eu não o seja. Pois bem, tivésseis \nesperado um pouco de tempo, a coisa seria resolvida por si: vós vedes, \nde fato, a minha idade. E digo isso não a vós todos, mas àqueles que",
+    "ner": [
+      {
+        "text": "Platão",
+        "label": "PER"
+      },
+      {
+        "text": "Críton",
+        "label": "PER"
+      },
+      {
+        "text": "Cristóbolo",
+        "label": "PER"
+      },
+      {
+        "text": "Apolodoro",
+        "label": "PER"
+      },
+      {
+        "text": "Terceira Parte",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "io",
+        "label": "LOC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 24,
+    "chunk_id": "apologia_24_3",
+    "texto": "de fato, a minha idade. E digo isso não a vós todos, mas àqueles que \nme condenaram à morte. Digo, além disto, mais o seguinte a esses",
+    "ner": [
+      {
+        "text": "Digo",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 25,
+    "chunk_id": "apologia_25_0",
+    "texto": "mesmos: É possível que tenhais acreditado, ó cidadãos, que eu tenha \nsido condenado por pobreza de raciocínio, com os quais eu poderia \nvos persuadir, se eu tivesse acreditado que era preciso dizer a fazer \ntudo, para evitar a condenação. Mas não é assim. Cai por falta, não de \nraciocínios, mas de audácia e imprudência, e não por querer dizer-vos \ncoisas tais que vos teria sido gratíssimas de ouvir, choramingando, \nlamentando e fazendo e dizendo muitas outras coisas indignas, as \nquais, certo, estais habituados a ouvir de outros. \nMas, nem mesmo agora, na hora do perigo, eu faria nada de \ninconveniente, nem mesmo agora me arrependo de me ter defendido \ncomo o fiz, antes prefiro mesmo morrer, tendo -me defendido desse \nmodo, a viver daquele outro.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 25,
+    "chunk_id": "apologia_25_1",
+    "texto": "como o fiz, antes prefiro mesmo morrer, tendo -me defendido desse \nmodo, a viver daquele outro. \nNem nos tribunais, nem no campo, nem a mim, nem a ninguém \nconvém tentar todos os meios para fugir à morte. Até mesmo nas \nbatalhas, de fato, é bastante evidente que se poderia evitar de morrer, \njogando fora as armas e suplicando aos que perseguem: e muitos \noutros meios há, nos perigos individuais, para evitar a morte se se ousa \ndizer e fazer alguma coisa. \nMas, ó cidadã os, talvez o difícil não seja isso: fugir da morte. Bem \nmais difícil é fugir da maldade, que corre mais veloz que a morte. E \nagora eu, preguiçoso como sou e velho, fui apanhado pela mais lenta, \nenquanto os meus acusadores, válidos e leves, foram apanhados pela \nmais veloz: a maldade.",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 25,
+    "chunk_id": "apologia_25_2",
+    "texto": "enquanto os meus acusadores, válidos e leves, foram apanhados pela \nmais veloz: a maldade. \nAssim, eu me vejo condenado à morte por vós, condenados de verdade, \ncriminosos de improbidade e de injustiça. Eu estou dentro da minha \npena, vós dentro da vossa. \nE, talvez, essas coisas devessem acontecer mesmo assim. E creio que \ncada qual foi tratado adequadamente. \nXVIII \nAgora, pois, quero vaticinar -vos o que se seguirá, ó vós que me \ncondenastes, porque já estou no ponto em que os homens \nespecialmente vaticinam, quando estão para morrer. Digo-vos, de fato, \nó cidadãos que me condenaram, que logo depois da minha morte virá \numa vingança muito mais severa, por Zeus, do que aquela pela qual me \ntendes sacrificado. Fizestes isto acreditando subtrair -vos ao",
+    "ner": [
+      {
+        "text": "Zeus",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 26,
+    "chunk_id": "apologia_26_0",
+    "texto": "aborrecimento de terdes de dar conta da vossa vida, mas eu vos \nasseguro que tudo sairá ao contrário. \nEm maior número serão os vossos censores, que eu até agora contive, \ne vós reparastes. E tanto mais vos atacarão quanto mais jovens forem e \ndisso tereis maiores aborrecimentos. \nSe acreditais, matando os homens, entreter alguns dos vossos críticos, \nnão pensais justo; esse modo de vos livrardes não é decerto eficaz nem \nbelo, mas belíssimo e facílimo é não contrariar os outros, mas aplicar-\nse a se tornar, quanto se puder, melhor. Faço, pois, este vaticínio a vós \nque me condenastes. Chego ao fim. \nXIX \nQuanto àqueles cujos votos me absolveram, eu teria prazer de \nconversar com eles a respeito deste caso que acaba de ocorrer enquanto",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 26,
+    "chunk_id": "apologia_26_1",
+    "texto": "conversar com eles a respeito deste caso que acaba de ocorrer enquanto \nos magistrados estão ocupados, enquanto não chega o momento de ter \nde ir ao lugar onde terei de morrer. Ficai, pois, comigo este pouco de \ntempo, ó cidadãos, porque nada nos impede de conversarmos horas \njuntos, enquanto de pode. É que a vós, como meus amigos, quero \nmostrar, que não desejo falar do meu caso presente. A mim, de fato, ó \njuízes - uma vez que, chaman do-vos juízes vos dou o nome que vos \nconvém - aconteceu qualquer coisa de maravilhoso. Aquela minha voz \nhabitual do demônio (daimon, gênio) em todos os tempos passados me \nera sempre freqüente e se oponha ainda mais nos pequeninos casos, \ncada vez que fosse para fazer alguma coisa que não estivesse muito",
+    "ner": [
+      {
+        "text": "daimon",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 26,
+    "chunk_id": "apologia_26_2",
+    "texto": "cada vez que fosse para fazer alguma coisa que não estivesse muito \nbem. Ora, aconteceram-me estas coisas, que vós mesmos estais vendo \ne que, decerto, alguns julgariam e considerariam o extremo dos males; \npois bem, o sinal do deus não se me opôs, nem esta manhã, ao sair de \ncasa, nem quando vim aqui, ao tribunal, nem durante todo o discurso. \nEm todo este processo, não se opôs uma só vez, nem a um ato, nem a \npalavra alguma. \nQual suponho que seja a causa? Eu vo -la direi: em verdade este meu \ncaso arrisca ser um bem, e estamos longe de julgar retamente, quando \npensamos que a morte é um mal. E disso tenho uma grande prova: que, \npor muito menos, o habitual signo, o meu demônio, se me teria \noposto, se não fosse para fazer alguma coisa de bm.",
+    "ner": [
+      {
+        "text": "vim",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 26,
+    "chunk_id": "apologia_26_3",
+    "texto": "oposto, se não fosse para fazer alguma coisa de bm. \nPassemos a considerar a questão em si mesm a, de como há grande \nesperança de que isso seja um bem.",
+    "ner": [
+      {
+        "text": "bm",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 27,
+    "chunk_id": "apologia_27_0",
+    "texto": "Porque morrer é uma ou outra destas duas coisas: ou o morto não tem \nabsolutamente nenhuma existência, nenhuma consciência do que quer \nque seja, ou, como se diz, a morte é precisamente uma mudança de \nexistência e, para a alma, uma migração deste lugar para um outro. Se, \nde fato, não há sensação alguma, mas é como um sono, a morte seria \num maravilhoso presente. Creio que, se alguém escolhesse a noite na \nqual tivesse dormido sem ter nenhum sonho, e compa rasse essa noite \nàs outras noites e dias de sua vida e tivesse de dizer quantos dias e \nnoites na sua vida havia vivido melhor, e mais docemente do que \nnaquela noite, creio que não somente qualquer indivíduo, mas até um \ngrande rei acharia fácil escolher a esse respeito, lamentando todos os",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 27,
+    "chunk_id": "apologia_27_1",
+    "texto": "grande rei acharia fácil escolher a esse respeito, lamentando todos os \noutros dias e noites. Assim, se a morte é isso, eu por mim a considero \num presente, porquanto, desse modo, todo o tempo se resume a uma \núnica noite. \nSe, ao contrário, a morte é como uma passagem deste para outro lugar, \ne, se é verdade o que se diz que lá se encontram todos os mortos, qual \no bem que poderia existir, ó juízes, maior do que este? Porque, se \nchegarmos ao Hades, libertando -nos destes que se vangloriam serem \njuízes, havemos de encontrar os verdadeiros juízes, os quais nos diria \nque fazem justiça acolá: Monos e Radamante, Éaco e Triptolemo, e \ntantos outros deuses e semideuses que foram justos na vida; seria \nentão essa viagem uma viagem de se fazer pouco caso? Que preço não",
+    "ner": [
+      {
+        "text": "Hades",
+        "label": "PER"
+      },
+      {
+        "text": "Monos",
+        "label": "LOC"
+      },
+      {
+        "text": "Radamante",
+        "label": "LOC"
+      },
+      {
+        "text": "Éaco",
+        "label": "LOC"
+      },
+      {
+        "text": "Triptolemo",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 27,
+    "chunk_id": "apologia_27_2",
+    "texto": "então essa viagem uma viagem de se fazer pouco caso? Que preço não \nserieis capazes de pagar, para conversar com Orfeu, Museu, Hesíodo e \nHomero? \nQuero morrer muitas vezes, se isso é verdade, pois para mim \nespecialmente. a conversação acolá seria maravilhosa, quando eu \nencontrasse Palamedes e Ajax Telamônio e qualquer um dos antigos \nmortos por injusto julgamento. E não seria sem deleite, me parece, \nconfrontar o meu com os seus casos, e, o que é melhor, passar o tempo \nexaminando e confrontando os de lá com cá, os últimos dos quis tem a \npretensão de conhecer a sabedoria dos outros, e acreditam ser sábios e \nnão são. A que preço, ó juízes, não se consentiria em examinar aquele \nque guiou o grande exército a Tróia, Ulisses, Sísifo, ou infinitos",
+    "ner": [
+      {
+        "text": "Orfeu",
+        "label": "PER"
+      },
+      {
+        "text": "Museu",
+        "label": "PER"
+      },
+      {
+        "text": "Hesíodo",
+        "label": "PER"
+      },
+      {
+        "text": "Homero",
+        "label": "PER"
+      },
+      {
+        "text": "Quero",
+        "label": "PER"
+      },
+      {
+        "text": "Palamedes",
+        "label": "PER"
+      },
+      {
+        "text": "Ajax Telamônio",
+        "label": "PER"
+      },
+      {
+        "text": "Tróia",
+        "label": "PER"
+      },
+      {
+        "text": "Ulisses",
+        "label": "PER"
+      },
+      {
+        "text": "Sísifo",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 27,
+    "chunk_id": "apologia_27_3",
+    "texto": "que guiou o grande exército a Tróia, Ulisses, Sísifo, ou infinitos \noutros? Isso constituiriam inefável felicidade.",
+    "ner": [
+      {
+        "text": "Tróia",
+        "label": "PER"
+      },
+      {
+        "text": "Ulisses",
+        "label": "PER"
+      },
+      {
+        "text": "Sísifo",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 28,
+    "chunk_id": "apologia_28_0",
+    "texto": "Com certeza aqueles de lá mandam a morte por isso, porque além do \nmais, são mais felizes do que os de cá, mesmo porque são imortais, se \né que o que se diz é verdade \nXXX \nMas também vós, ó juízes, deveis ter boa esperança em relação à \nmorte, e considerar esta única verdade: que não é possível haver algum \nmal para um homem de bem, nem durante sua vida, nem depois da \nmorte, que os deuses não se interessam do que a ele concerne; e que, \npor isso mesmo, o que hoje aconteceu, no que a mim concerne, não é \ndevido ao acaso, mas é a prova de que para mim era melhor morrer \nagora e ser libertado das coisas deste mundo. Eis também a razão por \nque a divina voz não me dissuadiu, e por que, de minha parte, não \nestou zangado com aqueles cujos votos me condenaram, nem contra \nmeus acusadores.",
+    "ner": [
+      {
+        "text": "XXX",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 28,
+    "chunk_id": "apologia_28_1",
+    "texto": "estou zangado com aqueles cujos votos me condenaram, nem contra \nmeus acusadores. \nNão foi com esse pensamento, entretanto, que eles votaram con tra \nmim, que me acusaram, pois acreditavam causar-me um mal. Por isto é \njusto que sejam censurados. Mas tudo o que lhes peço é o seguinte: \nQuando os meus filhinhos ficarem adultos, puni -os, é cidadãos, \natormentai-os do mesmo modo que eu os vos atormentei, quando vos \nparecer que eles cuidam mais das riquezas ou de outras coisas do que \nda virtude. E ,se acreditarem ser qualquer coisa não sendo nada, \nreprovai-os, como eu a vós: não vos preocupeis com aquilo que não \nlhes é devido. \nE, se fizerdes isso, terei de vós o que é justo, eu e os meus filhos. \nMas, já é hora de irmos: eu para a morte, e vós para viverdes. Mas,",
+    "ner": []
+  },
+  {
+    "titulo": "Apologia de Sócrates",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 28,
+    "chunk_id": "apologia_28_2",
+    "texto": "Mas, já é hora de irmos: eu para a morte, e vós para viverdes. Mas, \nquem vai para melhor sorte, isso é segredo, exceto para deus. \n \nExtraído de: http://www.consciencia.org/",
+    "ner": []
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "meneceu_1_0",
+    "texto": "1 \nEpicuro \n \nCarta a Meneceu \n(Sobre a Felicidade) \n \n \n \n1 - O Estudo da Filosofia \n \nMeneceu \n \nQue ninguém hesite em se dedicar à filosofia enquanto jovem, nem se canse de \nfazê-lo depois de velho, porque ninguém jamais é demasiado jovem ou demasiado velho \npara alcançar a saúde do espírito. Quem afirma que a hora de dedicar-se à filosofia ain- \nda não chegou, ou que ela já passou, é como se dissesse que ainda não chegou, ou que já \npassou a hora de ser feliz. \nDesse modo, a filosofia é útil tanto ao jovem quanto ao velho: para quem está \nenvelhecendo sentir-se rejuvenescer através da grata recordação das coisas que já se \nforam, e para o jovem poder envelhecer sem sentir medo das coisas que estão por vir; é",
+    "ner": [
+      {
+        "text": "Epicuro",
+        "label": "PER"
+      },
+      {
+        "text": "Sobre a Felicidade",
+        "label": "MISC"
+      },
+      {
+        "text": "O Estudo da Filosofia \n \nMeneceu",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "meneceu_1_1",
+    "texto": "foram, e para o jovem poder envelhecer sem sentir medo das coisas que estão por vir; é \nnecessário, portanto, cuidar das coisas que trazem a felicidade, já que, estando esta pre- \nsente, tudo temos, e, sem ela, tudo fazemos para alcançá-la. \nPratica e cultiva então aqueles ensinamentos que sempre te transmiti, na certeza \nde que eles constituem os elementos fundamentais para uma vida feliz. \n \n2 - Os Deuses \n \nEm primeiro lugar, considerando a divindade como um ente imortal e bem-\naventurado, como sugere a percepção comum de divindade, não atribuas a ela nada que \nseja incompatível com a sua imortalidade, nem inadequado à sua bem-aventurança; \npensa a respeito dela tudo que for capaz de conservar-lhe felicidade e imortalidade.",
+    "ner": [
+      {
+        "text": "Pratica",
+        "label": "LOC"
+      },
+      {
+        "text": "Os Deuses",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "meneceu_1_2",
+    "texto": "pensa a respeito dela tudo que for capaz de conservar-lhe felicidade e imortalidade. \nOs deuses de fato existem e é evidente o conhecimento que temos deles; já a i- \nmagem que deles faz a maioria das pessoas, essa não existe: as pessoas não costumam \npreservar a noção que têm dos deuses. Ímpio não é quem rejeita os deuses em que a \nmaioria crê, mas sim quem atribui aos deuses os falsos juízos dessa maioria. \nCom efeito, os juízos do povo a respeito dos deuses não se baseiam em noções \ninatas, mas em opiniões falsas. Daí a crença de que eles causam os maiores malefícios \naos maus e os maiores benefícios aos bons. Irmanados pelas suas próprias virtudes, eles \nsó aceitam a convivência com seus semelhantes e consideram estranho tudo que seja \ndiferente deles. \n \n3 - A Morte",
+    "ner": [
+      {
+        "text": "i- \nmagem",
+        "label": "PER"
+      },
+      {
+        "text": "Ímpio",
+        "label": "PER"
+      },
+      {
+        "text": "Irmanados",
+        "label": "LOC"
+      },
+      {
+        "text": "A Morte",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "meneceu_1_3",
+    "texto": "diferente deles. \n \n3 - A Morte \n \nAcostuma-te à idéia de que a morte para nós não é nada, visto que todo o bem e \ntodo o mal residem nas sensações, e a morte é justamente a privação das sensações. A \nconsciência clara de que a morte não significa nada para nós proporciona a fruição da \nvida efêmera, sem querer acrescentar-lhe tempo infinito e eliminando o desejo de imor- \ntalidade. \nNão existe nada de terrível na vida para quem está perfeitamente convencido de",
+    "ner": [
+      {
+        "text": "A Morte",
+        "label": "MISC"
+      },
+      {
+        "text": "Acostuma-te",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "meneceu_2_0",
+    "texto": "2 \nque não há nada de terrível em deixar de viver. É tolo portanto quem diz ter medo da \nmorte, não porque a chegada desta lhe trará sofrimento, mas porque o aflige a própria \nespera: aquilo que não nos perturba quando presente não deveria afligir-nos enquanto \nestá sendo esperado. \nEntão, o mais terrível de todos os males, a morte, não significa nada para nós, \njustamente porque, quando estamos vivos, é a morte que não está presente; ao contrário, \nquando a morte está presente, nós é que não estamos. A morte, portanto, não é nada, \nnem para os vivos, nem para os mortos, já que para aqueles ela não existe, ao passo que \nestes não estão mais aqui. E, no entanto, a maioria das pessoas ora foge da morte como \nse fosse o maior dos males, ora a deseja como descanso dos males da vida.",
+    "ner": []
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "meneceu_2_1",
+    "texto": "se fosse o maior dos males, ora a deseja como descanso dos males da vida. \nO sábio, porém, nem desdenha viver, nem teme deixar de viver; viver não é um \nfardo e não-viver não é um mal. \n \n4 - Saber Viver \n \nAssim como opta pela comida mais saborosa e não pela mais abundante, do \nmesmo modo ele colhe os doces frutos de um tempo bem vivido, ainda que breve. \nQuem aconselha o jovem a viver bem e o velho a morrer bem não passa de um \ntolo, não só pelo que a vida tem de agradável para ambos, mas também porque se deve \nter exatamente o mesmo cuidado em honestamente viver e em honestamente morrer. \nMas pior ainda é aquele que diz: bom seria não ter nascido, mas uma vez nascido, \ntranspor o mais depressa possível as portas do Hades.",
+    "ner": [
+      {
+        "text": "Saber Viver",
+        "label": "MISC"
+      },
+      {
+        "text": "Hades",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "meneceu_2_2",
+    "texto": "transpor o mais depressa possível as portas do Hades. \nSe ele diz isso com plena convicção, por que não vai desta vida? Pois é livre pa- \nra fazê-lo, se for esse realmente seu desejo; mas se o disse por brincadeira, foi frívolo \nem falar de coisas que brincadeira não admitem. \nNunca devemos nos esquecer de que o futuro não é nem totalmente nosso, nem \ntotalmente não-nosso, para não sermos obrigados a esperá-lo como se estivesse por vir \ncom toda a certeza, nem nos desesperarmos como se não estivesse por vir jamais. \n \n5 - Os Desejos e a Tranqüilidade de Espírito \n \nConsideremos também que, dentre os desejos, há os que são naturais e os que \nsão inúteis; dentre os naturais, há uns que são necessários e outros, apenas naturais; den-",
+    "ner": [
+      {
+        "text": "Hades",
+        "label": "PER"
+      },
+      {
+        "text": "Desejos e a Tranqüilidade de Espírito \n \nConsideremos",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "meneceu_2_3",
+    "texto": "são inúteis; dentre os naturais, há uns que são necessários e outros, apenas naturais; den- \ntre os necessários, há alguns que são fundamentais para a felicidade, outros, para o bem-\nestar corporal, outros, ainda, para a própria vida. E o conhecimento seguro dos desejos \nleva a direcionar toda escolha e toda recusa para a saúde do corpo e para a serenidade \ndo espírito, visto que esta é a finalidade da vida feliz: em razão desse fim praticamos \ntodas as nossas ações, para nos afastarmos da dor e do medo. \nUma vez que tenhamos atingido esse estado, toda a tempestade da alma se apla- \nca, e o ser vivo, não tendo que ir em busca de algo que lhe falta, nem procurar outra \ncoisa a não ser o bem da alma e do corpo, estará satisfeito. De fato, só sentimos neces-",
+    "ner": []
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "meneceu_2_4",
+    "texto": "coisa a não ser o bem da alma e do corpo, estará satisfeito. De fato, só sentimos neces- \nsidade do prazer quando sofremos sua ausência; ao contrário, quando não sofremos, \nessa necessidade não se faz sentir. \n \n6 - O Prazer \n \nÉ por essa razão que afirmamos que o prazer é o início e o fim de uma vida feliz. \nCom efeito, nós o identificamos como o bem primeiro e inerente ao ser humano, em \nrazão dele praticamos toda escolha ou recusa, e a ele chegamos escolhendo todo bem de \nacordo com a distinção entre prazer e dor.",
+    "ner": [
+      {
+        "text": "O Prazer",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "meneceu_3_0",
+    "texto": "3 \nEmbora o prazer seja nosso bem primeiro e inato, nem por isso escolhemos \nqualquer prazer: há ocasiões em que evitamos muitos prazeres, quando deles advêm \nefeitos o mais das vezes desagradáveis; ao passo que consideramos muitos sofrimentos \npreferíveis aos prazeres, se um prazer maior advier depois de suportarmos essas dores \npor muito tempo. \nPortanto, todo prazer constitui um bem por sua própria natureza; não obstante is- \nso, nem todos são escolhidos; do mesmo modo, toda dor é um mal, mas nem todas de- \nvem ser evitadas. Convém, portanto, avaliar todos os prazeres e sofrimentos de acordo \ncom o critério dos benefícios e dos danos. Há ocasiões em que utilizamos um bem como \nse fosse um mal e, ao contrário, um mal como se fosse um bem. \n \n7 - A Simplicidade",
+    "ner": [
+      {
+        "text": "A Simplicidade",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "meneceu_3_1",
+    "texto": "se fosse um mal e, ao contrário, um mal como se fosse um bem. \n \n7 - A Simplicidade \n \nConsideramos ainda a autos suficiência um grande bem; não que devamos nos \nsatisfazer com pouco, mas para nos contentarmos com esse pouco caso não tenhamos o \nmuito, honestamente convencidos de que desfrutam melhor a abundância os que menos \ndependem dela; tudo o que é natural é fácil de conseguir; difícil é tudo o que é inútil. \nOs alimentos mais simples proporcionam o mesmo prazer que as iguarias mais \nrequintadas, desde que se remova a dor provocada pela falta: pão e água produzem o \nprazer mais profundo quando ingeridos por quem deles necessita. \nHabituar-se às coisas simples, a um modo de vida não luxuoso, portanto, não só",
+    "ner": [
+      {
+        "text": "A Simplicidade",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "meneceu_3_2",
+    "texto": "Habituar-se às coisas simples, a um modo de vida não luxuoso, portanto, não só \né conveniente para a saúde, como ainda proporciona ao homem os meios para enfrentar \ncorajosamente as adversidades da vida: nos períodos em que conseguimos levar uma \nexistência rica, predispõe o nosso ânimo para melhor aproveitá-la, e nos prepara para \nenfrentar sem temor as vicissitudes da sorte. \n \n \n8 - A Temperança e a Prudência \n \nQuando então dizemos que o fim último é o prazer, não nos referimos aos praze- \nres dos intemperantes ou aos que consistem no gozo dos sentidos, como acreditam cer- \ntas pessoas que ignoram o nosso pensamento, ou não concordam com ele, ou o interpre- \ntam erroneamente, mas ao prazer que é ausência de sofrimentos físicos e de perturba- \nções da alma.",
+    "ner": [
+      {
+        "text": "A Temperança e a Prudência",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "meneceu_3_3",
+    "texto": "ções da alma. \nNão são, pois, bebidas nem banquetes contínuos, nem a posse de mulheres e ra- \npazes, nem o sabor dos peixes ou das outras iguarias de uma mesa farta que tornam do- \nce uma vida, mas um exame cuidadoso que investigue as causas de toda escolha e de \ntoda rejeição e que remova as opiniões falsas em virtude das quais uma imensa pertur- \nbação toma conta dos espíritos. \nDe todas essas coisas, a prudência é o princípio e o supremo bem, razão pela \nqual ela é mais preciosa do que a própria filosofia; é dela que originaram todas as de- \nmais virtudes; é ela que nos ensina que não existe vida feliz sem prudência, beleza e \njustiça, e que não existe prudência, beleza e justiça sem felicidade. \nPorque as virtudes estão intimamente ligadas à felicidade, e a felicidade é inse-",
+    "ner": []
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "meneceu_3_4",
+    "texto": "Porque as virtudes estão intimamente ligadas à felicidade, e a felicidade é inse- \nparável delas. \n \n9 - O Homem Sábio \n \nNa tua opinião, será que pode existir alguém mais feliz do que o sábio, que tem \num juízo reverente acerca dos deuses, que se comporta de modo absolutamente indife-",
+    "ner": [
+      {
+        "text": "O Homem Sábio",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "meneceu_4_0",
+    "texto": "4 \nrente perante a morte, que bem compreende a finalidade da natureza, que discerne que o \nbem supremo está nas coisas simples e fáceis de obter, e que o mal supremo ou dura \npouco, ou só nos causa sofrimentos leves? Que nega o destino, apresentado por alguns \ncomo o senhor de tudo, já que as coisas acontecem ou por necessidade, ou por acaso, ou \npor vontade nossa; e que a necessidade é incoercível, o acaso, instável, enquanto nossa \nvontade é livre, razão pela qual nos acompanham a censura e o louvor? \nMais vale aceitar o mito dos deuses, do que ser escravo do destino dos naturalis- \ntas: o mito pelo menos nos oferece a esperança do perdão dos deuses através das home- \nnagens que lhes prestamos, ao passo que o destino é uma necessidade inexorável.",
+    "ner": []
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "meneceu_4_1",
+    "texto": "nagens que lhes prestamos, ao passo que o destino é uma necessidade inexorável. \nEntendendo que a sorte não é uma divindade, como a maioria das pessoas acre- \ndita (pois um deus não faz nada ao acaso), nem algo incerto, o sábio não crê que ela \nproporcione aos homens nenhum bem ou nenhum mal que sejam fundamentais para \numa vida feliz, mas, sim, que dela pode surgir o início de grandes bens e de grandes \nmales. A seu ver, é preferível ser desafortunado e sábio, a ser afortunado e tolo; na prá- \ntica, é melhor que um bom projeto não chegue a bom termo, do que chegue a ter êxito \num projeto mau. \n \n10 - Meditação \n \nMedita, pois, todas essas coisas e muitas outras a elas congêneres, dia e noite, \ncontigo mesmo e com teus semelhantes, e nunca mais te sentirás perturbado, quer acor-",
+    "ner": [
+      {
+        "text": "nagens",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "Carta a Meneceu",
+    "autor": "Epicuro",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "meneceu_4_2",
+    "texto": "contigo mesmo e com teus semelhantes, e nunca mais te sentirás perturbado, quer acor- \ndado, quer dormindo, mas viverás como um deus entre os homens. Porque não se asse- \nmelha absolutamente a um mortal o homem que vive entre bens imortais.",
+    "ner": []
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "caverna_1_0",
+    "texto": "Texto: A alegoria da caverna – A República (514a-517c)\nSócrates: Agora imagine a nossa natureza, segundo o grau de \neducação que ela recebeu ou não, de acordo com o quadro que vou \nfazer. Imagine, pois, homens que vivem em uma morada subterrânea \nem forma de caverna. A entrada se abre para a luz em toda a largura \nda fachada. Os homens estão no interior desde a infância, \nacorrentados pelas pernas e pelo pescoço, de modo que não podem \nmudar de lugar nem voltar a cabeça para ver algo que não esteja \ndiante deles. A luz lhes vem de um fogo que queima por trás deles, ao \nlonge, no alto. Entre os prisioneiros e o fogo, há um caminho que \nsobe. Imagine que esse caminho é cortado por um pequeno muro, \nsemelhante ao tapume que os exibidores de marionetes dispõem entre",
+    "ner": [
+      {
+        "text": "A República",
+        "label": "MISC"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Imagine",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "caverna_1_1",
+    "texto": "semelhante ao tapume que os exibidores de marionetes dispõem entre \neles e o público, acima do qual manobram as marionetes e \napresentam o espetáculo.\nGlauco: Entendo\nSócrates: Então, ao longo desse pequeno muro, imagine homens que \ncarregam todo o tipo de objetos fabricados, ultrapassando a altura do \nmuro; estátuas de homens, figuras de animais, de pedra, madeira ou \nqualquer outro material. Provavelmente, entre os carregadores que \ndesfilam ao longo do muro, alguns falam, outros se calam.\nGlauco: Estranha descrição e estranhos prisioneiros!\nSócrates: Eles são semelhantes a nós. Primeiro, você pensa que, na \nsituação deles, eles tenham visto algo mais do que as sombras de si \nmesmos e dos vizinhos que o fogo projeta na parede da caverna à sua \nfrente?",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 1,
+    "chunk_id": "caverna_1_2",
+    "texto": "mesmos e dos vizinhos que o fogo projeta na parede da caverna à sua \nfrente?\nGlauco: Como isso seria possível, se durante toda a vida eles estão \ncondenados a ficar com a cabeça imóvel?\nSócrates: Não acontece o mesmo com os objetos que desfilam?\nGlauco: É claro.\nSócrates: Então, se eles pudessem conversar, não acha que, \nnomeando as sombras que vêem, pensariam nomear seres reais?",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "caverna_2_0",
+    "texto": "Glauco: Evidentemente.\nSócrates: E se, além disso, houvesse um eco vindo da parede diante \ndeles, quando um dos que passam ao longo do pequeno muro falasse, \nnão acha que eles tomariam essa voz pela da sombra que desfila à \nsua frente?\nGlauco: Sim, por Zeus.\nSócrates: Assim sendo, os homens que estão nessas condições não \npoderiam considerar nada como verdadeiro, a não ser as sombras dos \nobjetos fabricados.\nGlauco: Não poderia ser de outra forma.\nSócrates: Veja agora o que aconteceria se eles fossem libertados de \nsuas correntes e curados de sua desrazão. Tudo não aconteceria \nnaturalmente como vou dizer? Se um desses homens fosse solto, \nforçado subitamente a levantar-se, a virar a cabeça, a andar, a olhar \npara o lado da luz, todos esses movimentos o fariam sofrer; ele ficaria",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Zeus",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "caverna_2_1",
+    "texto": "para o lado da luz, todos esses movimentos o fariam sofrer; ele ficaria \nofuscado e não poderia distinguir os objetos, dos quais via apenas as \nsombras anteriormente. Na sua opinião, o que ele poderia responder \nse lhe dissessem que, antes, ele só via coisas sem consistência, que \nagora ele está mais perto da realidade, voltado para objetos mais \nreais, e que está vendo melhor? O que ele responderia se lhe \ndesignassem cada um dos objetos que desfilam, obrigando-o com \nperguntas, a dizer o que são? Não acha que ele ficaria embaraçado e \nque as sombras que ele via antes lhe pareceriam mais verdadeiras do \nque os objetos que lhe mostram agora?\nGlauco: Certamente, elas lhe pareceriam mais verdadeiras.\nSócrates: E se o forçassem a olhar para a própria luz, não achas que",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 2,
+    "chunk_id": "caverna_2_2",
+    "texto": "Sócrates: E se o forçassem a olhar para a própria luz, não achas que \nos olhos lhe doeriam, que ele viraria as costas e voltaria para as \ncoisas que pode olhar e que as consideraria verdadeiramente mais \nnítidas do que as coisas que lhe mostram?\nGlauco: Sem dúvida alguma.",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "caverna_3_0",
+    "texto": "Sócrates: E se o tirarem de lá à força, se o fizessem subir o íngreme \ncaminho montanhoso, se não o largassem até arrastá-lo para a luz do \nsol, ele não sofreria e se irritaria ao ser assim empurrado para fora? E, \nchegando à luz, com os olhos ofuscados pelo brilho, não seria capaz \nde ver nenhum desses objetos, que nós afirmamos agora serem \nverdadeiros.\nGlauco: Ele não poderá vê-los, pelo menos nos primeiros momentos.\nSócrates: É preciso que ele se habitue, para que possa ver as coisas \ndo alto. Primeiro, ele distinguirá mais facilmente as sombras, depois, \nas imagens dos homens e dos outros objetos refletidas na água, \ndepois os próprios objetos. Em segundo lugar, durante a noite, ele \npoderá contemplar as constelações e o próprio céu, e voltar o olhar",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "caverna_3_1",
+    "texto": "poderá contemplar as constelações e o próprio céu, e voltar o olhar \npara a luz dos astros e da lua mais facilmente que durante o dia para o \nsol e para a luz do sol.\nGlauco: Sem dúvida.\nSócrates: Finalmente, ele poderá contemplar o sol, não o seu reflexo \nnas águas ou em outra superfície lisa, mas o próprio sol, no lugar do \nsol, o sol tal como é.\nGlauco: Certamente.\nSócrates: Depois disso, poderá raciocinar a respeito do sol, concluir \nque é ele que produz as estações e os anos, que governa tudo no \nmundo visível, e que é, de algum modo a causa de tudo o que ele e \nseus companheiros viam na caverna.\nGlauco: É indubitável que ele chegará a essa conclusão.\nSócrates: Nesse momento, se ele se lembrar de sua primeira morada, \nda ciência que ali se possuía e de seus antigos companheiros, não",
+    "ner": [
+      {
+        "text": "lua",
+        "label": "LOC"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 3,
+    "chunk_id": "caverna_3_2",
+    "texto": "da ciência que ali se possuía e de seus antigos companheiros, não \nacha que ficaria feliz com a mudança e teria pena deles?\nGlauco: Claro que sim.\nSócrates: Quanto às honras e louvores que eles se atribuíam \nmutuamente outrora, quanto às recompensas concedidas àquele que",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "caverna_4_0",
+    "texto": "fosse dotado de uma visão mais aguda para discernir a passagem das \nsombras na parede e de uma memória mais fiel para se lembrar com \nexatidão daquelas que precedem certas outras ou que lhes sucedem, \nas que vêm juntas, e que, por isso mesmo, era o mais hábil para \nconjeturar a que viria depois, acha que nosso homem teria inveja dele, \nque as honras e a confiança assim adquiridas entre os companheiros \nlhe dariam inveja? Ele não pensaria antes, como o herói de Homero, \nque mais vale “viver como escravo de um lavrador” e suportar \nqualquer provação do que voltar à visão ilusória da caverna e viver \ncomo se vive lá?\nGlauco: Concordo com você. Ele aceitaria qualquer provação para não \nviver como se vive lá.\nSócrates: Reflita ainda nisto: suponha que esse homem volte à",
+    "ner": [
+      {
+        "text": "Homero",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "caverna_4_1",
+    "texto": "viver como se vive lá.\nSócrates: Reflita ainda nisto: suponha que esse homem volte à \ncaverna e retome o seu antigo lugar. Desta vez, não seria pelas trevas \nque ele teria os olhos ofuscados, ao vir diretamente do sol?\nGlauco: Naturalmente.\nSócrates: E se ele tivesse que emitir de novo um juízo sobre as \nsombras e entrar em competição com os prisioneiros que continuaram \nacorrentados, enquanto sua vista ainda está confusa, seus olhos ainda \nnão se recompuseram, enquanto lhe deram um tempo curto demais \npara acostumar-se com a escuridão, ele não ficaria ridículo? Os \nprisioneiros não diriam que, depois de ter ido até o alto, voltou com a \nvista perdida, que não vale mesmo a pena subir até lá? E se alguém \ntentasse retirar os seus laços, fazê-los subir, você acredita que, se",
+    "ner": [
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 4,
+    "chunk_id": "caverna_4_2",
+    "texto": "tentasse retirar os seus laços, fazê-los subir, você acredita que, se \npudessem agarrá-lo e executá-lo, não o matariam?\nGlauco: Sem dúvida alguma, eles o matariam.\nSócrates: E agora, meu caro Glauco, é preciso aplicar exatamente \nessa alegoria ao que dissemos anteriormente. Devemos assimilar o \nmundo que apreendemos pela vista à estada na prisão, a luz do fogo \nque ilumina a caverna à ação do sol. Quanto à subida e à \ncontemplação do que há no alto, considera que se trata da ascensão \nda alma até o lugar inteligível, e não te enganarás sobre minha \nesperança, já que desejas conhecê-la. Deus sabe se há alguma \npossibilidade de que ela seja fundada sobre a verdade. Em todo o",
+    "ner": [
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Sócrates",
+        "label": "PER"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "enganarás",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "titulo": "O Mito da Caverna",
+    "autor": "Platão",
+    "capitulo": null,
+    "pagina_pdf": 5,
+    "chunk_id": "caverna_5_0",
+    "texto": "caso eis o que me aparece tal como me aparece; nos últimos limites \ndo mundo inteligível aparece-me a idéia do Bem, que se percebe com \ndificuldade, mas que não se pode ver sem concluir que ela é a causa \nde tudo o que há de reto e de belo. No mundo visível, ela gera a luz e \no senhor da luz, no mundo inteligível ela própria é a soberana que \ndispensa a verdade e a inteligência. Acrescento que é preciso vê-la se \nquer comportar-se com sabedoria, seja na vida privada, seja na vida \npública.\nGlauco: Tanto quanto sou capaz de compreender-te, concordo \ncontigo.\nReferência:\nA Alegoria da caverna: A Republica, 514a-517c tradução de Lucy \nMagalhães. \nIn: MARCONDES, Danilo. Textos Básicos de Filosofia: dos Pré-\nsocráticos a Wittgenstein. 2a ed. Rio de Janeiro: Jorge Zahar Editor, \n2000.",
+    "ner": [
+      {
+        "text": "Bem",
+        "label": "MISC"
+      },
+      {
+        "text": "Glauco",
+        "label": "PER"
+      },
+      {
+        "text": "Referência",
+        "label": "LOC"
+      },
+      {
+        "text": "A Alegoria",
+        "label": "MISC"
+      },
+      {
+        "text": "Republica",
+        "label": "MISC"
+      },
+      {
+        "text": "Lucy \nMagalhães",
+        "label": "PER"
+      },
+      {
+        "text": "In: MARCONDES",
+        "label": "MISC"
+      },
+      {
+        "text": "Danilo",
+        "label": "PER"
+      },
+      {
+        "text": "Textos Básicos de Filosofia",
+        "label": "MISC"
+      },
+      {
+        "text": "Pré-",
+        "label": "ORG"
+      },
+      {
+        "text": "Wittgenstein",
+        "label": "PER"
+      },
+      {
+        "text": "Rio de Janeiro",
+        "label": "LOC"
+      },
+      {
+        "text": "Jorge Zahar Editor",
+        "label": "PER"
+      }
+    ]
+  }
+]
