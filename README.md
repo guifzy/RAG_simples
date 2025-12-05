@@ -3,7 +3,7 @@
 Este repositório implementa um fluxo de Recuperação de Informação com Embeddings (RAG/Vector Search) sobre textos clássicos de filosofia em português, a partir de PDFs. O notebook `proj4.ipynb` constrói um índice semântico com FAISS a partir de chunks textuais extraídos e anotados (NER), permitindo consultas por similaridade e exploração guiada do conteúdo.
 
 ## Objetivos
-- Explorar e compreender clusters em buscas semanticas e atravez de embbedings.
+- Explorar e compreender clusters em buscas semanticas atravez de embbedings.
 - Permitir busca semântica (não apenas por palavra exata) e navegação contextual.
 - Enriquecer os trechos com anotações de Entidades Nomeadas (NER) para análise e referências.
 
