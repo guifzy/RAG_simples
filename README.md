@@ -1,4 +1,4 @@
-# proj4 — Busca Semântica em Textos de Filosofia
+# Busca Semântica em Textos de Filosofia
 
 Este repositório implementa um fluxo de Recuperação de Informação com Embeddings (RAG/Vector Search) sobre textos clássicos de filosofia em português, a partir de PDFs. O notebook `proj4.ipynb` constrói um índice semântico com FAISS a partir de chunks textuais extraídos e anotados (NER), permitindo consultas por similaridade e exploração guiada do conteúdo.
 
