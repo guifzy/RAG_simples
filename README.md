@@ -73,10 +73,3 @@ No Jupyter, execute as células na ordem. As células constroem/atualizam o índ
 Este projeto foca na aplicação prática de RAG (Retrieval‑Augmented Generation) e buscas semânticas sobre textos filosóficos em português, enfatizando como representações em espaços latentes capturam significado além de termos exatos. Ao combinar chunking contextual, embeddings (via `sentence-transformers`/`transformers`) e indexação vetorial (`faiss-cpu`), a recuperação torna‑se mais coesa e fiel ao conteúdo original.
 
 Um ponto central é a integração de NER (Reconhecimento de Entidades Nomeadas) no pipeline: ao evidenciar entidades como autores, personagens e conceitos (por exemplo, `Sócrates`, `Platão`, `Zeus`), os vetores dos chunks tendem a se organizar em clusters mais estáveis no espaço latente. Essa sinalização semântica auxilia o modelo a diferenciar contextos e a aproximar trechos relacionados, melhorando a densidade dos agrupamentos e, consequentemente, a precisão e a cobertura da recuperação.
-
-Do ponto de vista acadêmico, esse comportamento de coesão em espaço vetorial permite:
-- Análise de tópicos e conceitos com maior granularidade.
-- Navegação guiada por entidades, reforçando citações e referências.
-- Expansão de consultas com termos semanticamente próximos sem perder fidelidade.
-
-O notebook pode ser estendido para: (i) incorporar reescrita de respostas com LLMs baseada nos trechos recuperados (RAG completo), (ii) ajustar estratégias de chunking/overlap para balancear contexto e custo computacional, (iii) experimentar diferentes famílias de embeddings e métricas (cosine/inner product), e (iv) integrar novos corpora e validar qualidade com métricas de IR (recall@k, MRR). Esses caminhos ampliam tanto a robustez quanto o valor acadêmico do sistema de recuperação.
